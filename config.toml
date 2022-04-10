@@ -1,0 +1,66 @@
+baseURL = 'https://dragonsnotincluded.github.io/'
+DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
+languageCode = 'en-gb'
+title = 'Dragons Not Included'
+copyright = "2020-2022, Dragons Not Included."
+theme = "hugo-theme-diary"
+# googleAnalytics = "UA-123-45"
+
+# recommended for GitHub pages
+publishDir = 'docs'
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "perldoc"
+    tabWidth = 4
+
+[params]
+subtitle = "Themed by Diary."
+enableGitalk = false
+
+favicon = "/favicons/favicon.ico"
+
+# Twitter Card and Open Graph settings
+enableOpenGraph = true
+enableTwitterCards = true
+title = "Dragons Not Included" # will set 'og:site_name'
+description = "My HomePage Description"  # will set 'og:description'
+
+[params.gitalk]
+  owner = "user"
+  repo = "repo name"
+  client_id = "your client id"
+  client_secret = "your client secret"
+[taxonomies]
+   tag = "tags"
+   category = "categories"
+
+[params.utterances]
+repo="your repo"
+term="[ENTER TERM HERE]"
+label="your label"
+theme="github-light"
+
+[[menu.main]]
+url = "/categories"
+name = "Categories"
+weight = 2
+[[menu.main]]
+url = "/tags"
+name = "Tags"
+weight = 3
+[[menu.main]]
+url = "/posts"
+name = "Archive"
+weight = 1
+[[menu.main]]
+url = "/index.xml"
+name = "RSS Feed"
+weight = 4

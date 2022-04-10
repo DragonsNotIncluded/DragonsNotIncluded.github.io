@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-diary"]
+	path = themes/hugo-theme-diary
+	url = https://github.com/DragonsNotIncluded/hugo-theme-diary.git
