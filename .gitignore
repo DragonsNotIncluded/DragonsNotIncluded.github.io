@@ -1,5 +1,6 @@
 # General
 .hugo_build.lock
+.backup
 
 
 # Windows Thumbnails
