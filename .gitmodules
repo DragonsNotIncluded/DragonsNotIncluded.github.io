@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-diary"]
 	path = themes/hugo-theme-diary
 	url = https://github.com/DragonsNotIncluded/hugo-theme-diary.git
+[submodule "themes/darths-hugo-shortcodes"]
+	path = themes/darths-hugo-shortcodes
+	url = https://github.com/Darthagnon/darths-hugo-shortcodes.git
