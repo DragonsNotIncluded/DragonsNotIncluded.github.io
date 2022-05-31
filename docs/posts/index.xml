@@ -14,7 +14,8 @@
       <pubDate>Mon, 11 Apr 2022 18:48:45 +0100</pubDate>
       
       <guid>https://dragonsnotincluded.github.io/posts/test/</guid>
-      <description>something new</description>
+      <description>something new
+Example of how to embed a PodBean episode console.log(&#34;Loaded external content from PodBean.com&#34;);console.log(&#34;Loaded external content from HearThis.at&#34;);console.log(&#34;Loaded external content from Deezer.com&#34;);console.log(&#34;Loaded external content from Spotify.com&#34;);</description>
     </item>
     
     <item>

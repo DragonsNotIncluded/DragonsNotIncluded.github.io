@@ -20,6 +20,87 @@
         
         <guid>https://dragonsnotincluded.github.io/posts/test/</guid>
         <description>Dragons Not Included https://dragonsnotincluded.github.io/posts/test/ -&lt;p&gt;something new&lt;/p&gt;
+&lt;p&gt;Example of how to embed a PodBean episode
+
+&lt;div class=&#34;embed podcast-podbean&#34;&gt;
+	&lt;iframe title=&#34;PodBean Podcast Episode&#34; 
+	allowtransparency=&#34;true&#34; 
+	height=&#34;150&#34; width=&#34;100%&#34; 
+	style=&#34;border: none; min-width: min(100%, 430px);&#34; 
+	scrolling=&#34;no&#34; 
+	data-name=&#34;pb-iframe-player&#34; 
+	src=&#34;https://www.podbean.com/player-v2/?from=embed&amp;i=49suk-105448b&amp;share=1&amp;download=1&amp;fonts=Arial&amp;skin=1b1b1b&amp;font-color=auto&amp;rtl=0&amp;logo_link=episode_page&amp;btn-skin=c73a3a&amp;size=150&#34;&gt;
+	&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+	&lt;script&gt;
+		console.log(&#34;Loaded external content from PodBean.com&#34;);
+	&lt;/script&gt;
+
+&lt;/p&gt;
+
+&lt;div class=&#34;embed podcast-hearthis&#34;&gt;
+	&lt;iframe 
+	scrolling=&#34;no&#34; 
+	frameborder=&#34;0&#34; 
+	allowtransparency
+	id=&#34;hearthis_at_track_6405965&#34; 
+	width=&#34;100%&#34; height=&#34;150&#34; 
+	src=&#34;https://hearthis.at/embed/6405965/transparent_black/?hcolor=&amp;color=&amp;style=2&amp;block_size=2&amp;block_space=2&amp;background=1&amp;waveform=0&amp;cover=0&amp;autoplay=0&amp;css=&#34; 
+	&gt;
+	&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+	&lt;script&gt;
+		console.log(&#34;Loaded external content from HearThis.at&#34;);
+	&lt;/script&gt;
+
+
+
+
+
+	&lt;div class=&#34;embed music-deezer&#34;&gt;
+		&lt;iframe 
+		title=&#34;deezer-widget&#34; 
+		src=&#34;https://widget.deezer.com/widget/dark/track/3083380&#34; 
+		width=&#34;100%&#34; height=&#34;300&#34; 
+		frameborder=&#34;0&#34; 
+		allowtransparency=&#34;true&#34; 
+		allow=&#34;encrypted-media; clipboard-write&#34;&gt;
+		&lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+	&lt;script&gt;
+		console.log(&#34;Loaded external content from Deezer.com&#34;);
+	&lt;/script&gt;
+
+
+
+
+
+	&lt;div class=&#34;embed music-spotify&#34;&gt;
+		&lt;iframe 
+		style=&#34;border-radius:12px&#34; 
+		src=&#34;https://open.spotify.com/embed/playlist/37i9dQZF1DWZd79rJ6a7lp?utm_source=generatortrue&amp;theme=0&#34; 
+		width=&#34;100%&#34; 
+		height=&#34;380&#34;
+		frameBorder=&#34;0&#34;
+		allowfullscreen=&#34;&#34; 
+		allow=&#34;autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture&#34;&gt;&lt;/iframe&gt;
+	&lt;/div&gt;
+
+
+
+	&lt;script&gt;
+		console.log(&#34;Loaded external content from Spotify.com&#34;);
+	&lt;/script&gt;
+
+
+
 - https://dragonsnotincluded.github.io/posts/test/ - 2020-2022, Dragons Not Included.</description>
         </item>
     

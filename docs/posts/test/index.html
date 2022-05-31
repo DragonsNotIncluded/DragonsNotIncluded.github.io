@@ -17,7 +17,8 @@
 
 
 <meta property="og:title" content="Test" />
-<meta property="og:description" content="something new" />
+<meta property="og:description" content="something new
+Example of how to embed a PodBean episode console.log(&#34;Loaded external content from PodBean.com&#34;);console.log(&#34;Loaded external content from HearThis.at&#34;);console.log(&#34;Loaded external content from Deezer.com&#34;);console.log(&#34;Loaded external content from Spotify.com&#34;);" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://dragonsnotincluded.github.io/posts/test/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-04-11T18:48:45+01:00" />
@@ -30,7 +31,8 @@
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Test"/>
-<meta name="twitter:description" content="something new"/>
+<meta name="twitter:description" content="something new
+Example of how to embed a PodBean episode console.log(&#34;Loaded external content from PodBean.com&#34;);console.log(&#34;Loaded external content from HearThis.at&#34;);console.log(&#34;Loaded external content from Deezer.com&#34;);console.log(&#34;Loaded external content from Spotify.com&#34;);"/>
 
 
 
@@ -85,7 +87,33 @@
 
 </head>
 <body>
-    	<div id="app"><div id="sideContainer" class="side-container">
+
+
+
+	<script type="text/javascript">
+	function wallpaper() {
+		document.body.style.backgroundImage = "url('https:\/\/dragonsnotincluded.github.io\/img\/customWallpaper.png')";
+		document.body.style.backgroundAttachment = "fixed";
+		document.body.style.backgroundPosition = "center";
+		document.body.style.minHeight = "100%";
+		document.body.style.backgroundRepeat = "no-repeat";
+	}
+
+		wallpaper();
+	</script>
+	
+
+
+
+
+
+<script>
+	console.log("JS wallpaper:");
+	console.log (document.body.style.backgroundImage);
+</script>
+
+
+<div id="app"><div id="sideContainer" class="side-container">
     
     <a class="a-block nav-head false" href="https://dragonsnotincluded.github.io/">
     
@@ -313,6 +341,87 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
                 <div class="post-body" v-pre>
                 
                     <p>something new</p>
+<p>Example of how to embed a PodBean episode
+
+<div class="embed podcast-podbean">
+	<iframe title="PodBean Podcast Episode" 
+	allowtransparency="true" 
+	height="150" width="100%" 
+	style="border: none; min-width: min(100%, 430px);" 
+	scrolling="no" 
+	data-name="pb-iframe-player" 
+	src="https://www.podbean.com/player-v2/?from=embed&i=49suk-105448b&share=1&download=1&fonts=Arial&skin=1b1b1b&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=c73a3a&size=150">
+	</iframe>
+</div>
+
+
+	<script>
+		console.log("Loaded external content from PodBean.com");
+	</script>
+
+</p>
+
+<div class="embed podcast-hearthis">
+	<iframe 
+	scrolling="no" 
+	frameborder="0" 
+	allowtransparency
+	id="hearthis_at_track_6405965" 
+	width="100%" height="150" 
+	src="https://hearthis.at/embed/6405965/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=2&background=1&waveform=0&cover=0&autoplay=0&css=" 
+	>
+	</iframe>
+</div>
+
+
+	<script>
+		console.log("Loaded external content from HearThis.at");
+	</script>
+
+
+
+
+
+	<div class="embed music-deezer">
+		<iframe 
+		title="deezer-widget" 
+		src="https://widget.deezer.com/widget/dark/track/3083380" 
+		width="100%" height="300" 
+		frameborder="0" 
+		allowtransparency="true" 
+		allow="encrypted-media; clipboard-write">
+		</iframe>
+	</div>
+
+
+
+	<script>
+		console.log("Loaded external content from Deezer.com");
+	</script>
+
+
+
+
+
+	<div class="embed music-spotify">
+		<iframe 
+		style="border-radius:12px" 
+		src="https://open.spotify.com/embed/playlist/37i9dQZF1DWZd79rJ6a7lp?utm_source=generatortrue&theme=0" 
+		width="100%" 
+		height="380"
+		frameBorder="0"
+		allowfullscreen="" 
+		allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+	</div>
+
+
+
+	<script>
+		console.log("Loaded external content from Spotify.com");
+	</script>
+
+
+
 
                     
                     <HR width="100%" id="EOF">
