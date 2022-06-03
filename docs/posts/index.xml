@@ -15,7 +15,11 @@
       
       <guid>https://dragonsnotincluded.github.io/posts/test/</guid>
       <description>something new
-Example of how to embed a PodBean episode console.log(&#34;Loaded external content from PodBean.com&#34;);console.log(&#34;Loaded external content from HearThis.at&#34;);console.log(&#34;Loaded external content from Deezer.com&#34;);console.log(&#34;Loaded external content from Spotify.com&#34;);</description>
+Examples in Markdown The above is a Level 1 Title
+Hello, Dungeon Master. I have added a lot of Markdown examples to this document.
+- Kind regards, your webmaster Darren
+To edit Markdown, you can use any text editor, but I recommend one with a preview, for example (also, this is how you do links):
+ Ghostwriter MarkdownPad 2 Notepad++, with this plugin Sublime Text 3, with this plugin Marktext (very similar to the commercial Typora)  This is a subtitle (Level 2) (and some basic examples of text formatting and lists)</description>
     </item>
     
     <item>

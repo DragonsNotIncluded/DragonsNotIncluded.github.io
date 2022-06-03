@@ -20,7 +20,119 @@
         
         <guid>https://dragonsnotincluded.github.io/posts/test/</guid>
         <description>Dragons Not Included https://dragonsnotincluded.github.io/posts/test/ -&lt;p&gt;something new&lt;/p&gt;
-&lt;p&gt;Example of how to embed a PodBean episode
+&lt;h1 id=&#34;examples-in-markdown&#34;&gt;Examples in Markdown&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;The above is a Level 1 Title&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Hello, Dungeon Master. I have added a lot of Markdown examples to this document.&lt;/p&gt;
+&lt;p&gt;- Kind regards, your webmaster &lt;a href=&#34;https://robot-one.github.io&#34;&gt;Darren&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To edit Markdown, you can use any text editor, but I recommend one with a preview, for example (also, this is how you do links):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/wereturtle/ghostwriter/releases&#34;&gt;Ghostwriter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://markdownpad.com/&#34;&gt;MarkdownPad 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://notepad-plus-plus.org/&#34;&gt;Notepad++&lt;/a&gt;, with &lt;a href=&#34;https://github.com/VinsWorldcom/NppMarkdownPanel/releases&#34;&gt;this plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.sublimetext.com/3&#34;&gt;Sublime Text 3&lt;/a&gt;, with &lt;a href=&#34;https://github.com/SublimeText-Markdown/MarkdownEditing/releases&#34;&gt;this plugin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/marktext/marktext/releases&#34;&gt;Marktext&lt;/a&gt; (very similar to the commercial &lt;a href=&#34;https://typora.io/&#34;&gt;Typora&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;this-is-a-subtitle-level-2&#34;&gt;This is a subtitle (Level 2)&lt;/h2&gt;
+&lt;p&gt;(and some basic examples of text formatting and lists)&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;italic&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;bold &amp;amp; italic&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;unordered list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;hello&lt;/li&gt;
+&lt;li&gt;what&amp;rsquo;s up?&lt;/li&gt;
+&lt;li&gt;not much
+&lt;ul&gt;
+&lt;li&gt;sub-bullet
+&lt;ul&gt;
+&lt;li&gt;sub-sub-bullet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ordered list:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Shaka, when the walls fell&lt;/li&gt;
+&lt;li&gt;Temba, his arms wide&lt;/li&gt;
+&lt;li&gt;Darmok and Jalaad, at Tanagra
+&lt;ul&gt;
+&lt;li&gt;Mixed bullet types (and this is from a famous Star Trek TNG episode, Darmok &lt;a href=&#34;https://en.wikipedia.org/wiki/Darmok&#34;&gt;Wikipedia&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; checklist item 1&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; checklist item 2&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; cheese&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; fruit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;this-is-a-subtitle-level-3&#34;&gt;This is a subtitle (Level 3)&lt;/h3&gt;
+&lt;p&gt;Subtitles can go many levels deep (infinite?); treat Level 4 as the absolute limit, and normally, you won&amp;rsquo;t need any more than Level 2 or 3.&lt;/p&gt;
+&lt;p&gt;Below is a line divider. Don&amp;rsquo;t put text directly above a line, or it&amp;rsquo;s understood as a Level 1 Title&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;messy-table-example-and-other-special-characters&#34;&gt;(Messy) table example, and other special characters&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;This&lt;/th&gt;
+&lt;th&gt;Is&lt;/th&gt;
+&lt;th&gt;How&lt;/th&gt;
+&lt;th&gt;You&lt;/th&gt;
+&lt;th&gt;Make&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;a&lt;/td&gt;
+&lt;td&gt;table&lt;/td&gt;
+&lt;td&gt;in&lt;/td&gt;
+&lt;td&gt;Markdown&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;It&lt;/td&gt;
+&lt;td&gt;is&lt;/td&gt;
+&lt;td&gt;fairly&lt;/td&gt;
+&lt;td&gt;forgiving&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;if&lt;/td&gt;
+&lt;td&gt;you&lt;/td&gt;
+&lt;td&gt;don&amp;rsquo;t&lt;/td&gt;
+&lt;td&gt;get&lt;/td&gt;
+&lt;td&gt;formatting&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;perfect&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;You also need to type &lt;code&gt;backticks&lt;/code&gt; to write as code,&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;multiple backticks for code blocks
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;or &lt;!-- raw HTML omitted --&gt;Key indicators&lt;!-- raw HTML omitted --&gt; for keyboard buttons, e.g. &lt;!-- raw HTML omitted --&gt;Ctrl&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;Alt&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;Delete&lt;!-- raw HTML omitted --&gt; (these don&amp;rsquo;t render on your website theme &lt;strong&gt;yet&lt;/strong&gt;)&lt;/p&gt;
+&lt;p&gt;If you need to type a designated character, use a backslash to escape its function, for example bullets usually render from short dashes, but here&amp;rsquo;s a short dash I typed using - (I typed it thusly &lt;code&gt;\-&lt;/code&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;quote-block-example&#34;&gt;Quote block example&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;or, how about a quote block?&lt;/p&gt;
+&lt;p&gt;- anon#1234 @ 4:20pm&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;fake&lt;/p&gt;
+&lt;p&gt;- anon#69 @ 4:69pm&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;No, it&amp;rsquo;s real, I promise&lt;/p&gt;
+&lt;p&gt;- anon#1234 @ 4:30pm&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;podcast-embedding-examples&#34;&gt;Podcast Embedding examples&lt;/h2&gt;
+&lt;p&gt;Example of how to embed a PodBean episode &lt;strong&gt;(NB &lt;code&gt;forwardslash-asterisk&lt;/code&gt;, only visible in the source code, is just to prevent Hugo from rendering the shortcode; normally anything between those funny triple brackets is rendered)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{{&amp;lt; podbean 49suk-105448b &amp;gt;}}&lt;/code&gt;
 
 &lt;div class=&#34;embed podcast-podbean&#34;&gt;
 	&lt;iframe title=&#34;PodBean Podcast Episode&#34; 
@@ -39,6 +151,8 @@
 	&lt;/script&gt;
 
 &lt;/p&gt;
+&lt;p&gt;How to embed a HearThis.at &lt;a href=&#34;https://hearthis.at/&#34;&gt;1&lt;/a&gt; audiobook (quite good for hosting unlimited audio)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{{&amp;lt; hearthis 6405965 &amp;gt;}}&lt;/code&gt;
 
 &lt;div class=&#34;embed podcast-hearthis&#34;&gt;
 	&lt;iframe 
@@ -57,7 +171,9 @@
 		console.log(&#34;Loaded external content from HearThis.at&#34;);
 	&lt;/script&gt;
 
-
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.deezer.com/en/&#34;&gt;Deezer&lt;/a&gt; music (available media types: &lt;code&gt;album&lt;/code&gt;, &lt;code&gt;playlist&lt;/code&gt;, &lt;code&gt;track&lt;/code&gt;, &lt;code&gt;artist&lt;/code&gt;, &lt;code&gt;podcast&lt;/code&gt;, &lt;code&gt;episode&lt;/code&gt; ). Theme can (optional) be dark, light, or have specified height in pixels&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{{&amp;lt; deezer track 3083380 dark 150 &amp;gt;}}&lt;/code&gt;
 
 
 
@@ -78,7 +194,10 @@
 		console.log(&#34;Loaded external content from Deezer.com&#34;);
 	&lt;/script&gt;
 
-
+&lt;/p&gt;
+&lt;p&gt;How to embed a &lt;a href=&#34;https://open.spotify.com/&#34;&gt;Spotify&lt;/a&gt; playlist (available mediatypes: &lt;code&gt;track&lt;/code&gt;, &lt;code&gt;artist&lt;/code&gt;, &lt;code&gt;album&lt;/code&gt;, &lt;code&gt;playlist&lt;/code&gt;, &lt;code&gt;episode&lt;/code&gt;, &lt;code&gt;show&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{{&amp;lt; spotify media=&amp;quot;mediatype&amp;quot; id=&amp;quot;37i9dQZF1DX59NCqCqJtoH&amp;quot; theme=&amp;quot;dark&amp;quot; &amp;gt;}}&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;{{&amp;lt; spotify playlist 37i9dQZF1DWZd79rJ6a7lp dark &amp;gt;}}&lt;/code&gt;
 
 
 
@@ -100,7 +219,15 @@
 	&lt;/script&gt;
 
 
-
+&lt;/p&gt;
+&lt;h2 id=&#34;example-for-embedding-images&#34;&gt;Example for embedding images&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s how you embed a remote image from somewhere else (this is called &amp;ldquo;hotlinking&amp;rdquo; - it&amp;rsquo;s bad practice because it puts load on other people&amp;rsquo;s servers and they could delete/rename/replace-with-p0rn their content at any time, so best to use unchangeable local images, see below):&lt;/p&gt;
+&lt;p&gt;Wikipedia logo from Wikipedia, The Free Encyclopaedia:
+&lt;img src=&#34;https://en.wikipedia.org/static/images/project-logos/enwiki.png&#34; alt=&#34;Wikipedia logo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;To render local images, put the images anywhere in &lt;code&gt;[website folder]/static/img/optionalFolder&lt;/code&gt; and embed them thusly:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dragonsnotincluded.github.io/img/customWallpaper.png&#34; alt=&#34;Custom Wallpaper image embed&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Reference-style links below this line in the source code (invisible on rendered site, they are rendered as direct links):&lt;/p&gt;
+&lt;hr&gt;
 - https://dragonsnotincluded.github.io/posts/test/ - 2020-2022, Dragons Not Included.</description>
         </item>
     
