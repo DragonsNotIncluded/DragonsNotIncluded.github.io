@@ -1,5 +1,8 @@
 👋 Hi, I’m the Dungeon Master of Dragons Not Included, and I invite you to join us for a game...
 
+### Click [here](https://dragonsnotincluded.github.io/) to visit our site @ [dragonsnotincluded.github.io](https://dragonsnotincluded.github.io/)
+... this is just the repository for our site's source code.
+
 Join the crew of the Dragons Not Included podcast as they roll, crit and laugh their way through the Wrath of the Righteous tabletop role playing adventure.
 
 ## Team Members
