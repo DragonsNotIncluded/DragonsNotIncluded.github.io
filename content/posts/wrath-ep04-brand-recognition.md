@@ -1,24 +1,27 @@
 ---
-title: "Episode 13: Riot in the Library"
-date: 2021-03-15
-description: The party arrive at the ruined library, but are they prepared for what they find?
+title: "Episode 04: Brand Recognition"
+date: 2020-12-21
+# lastmod: 2022-06-07T15:37:09+01:00
+# nolastmod: true
+description: "The party find that they are not alone underground. But have they found friend or foe?"
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Dungeon Master - Stephen
+  - Scrutiny the Tiefling 
+  - Eldern Ægis, Paladin of Ionidae 
+  - Istra, 100% Human
+  - Hans Brander
 draft: false
-disableTOC: true
 ---
 
-The party arrive at the ruined library, but are they prepared for what they find?
-
 Listen to the episode on PodBean:
-{{< podbean 9qipx-fdb3ca >}}
+{{< podbean sjdt3-f593e7 >}}
+
+The party find that they are not alone underground. But have they found friend or foe?
 
 --------------------------
 ## Follow us on Social Media: 

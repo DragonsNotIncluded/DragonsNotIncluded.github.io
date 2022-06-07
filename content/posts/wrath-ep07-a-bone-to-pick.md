@@ -1,24 +1,27 @@
 ---
-title: "Episode 13: Riot in the Library"
-date: 2021-03-15
-description: The party arrive at the ruined library, but are they prepared for what they find?
+title: "Episode 07: A Bone to Pick"
+date: 2021-01-19
+# lastmod: 2022-06-07T15:27:06+01:00
+# nolastmod: true
+description: "Deep in enemy territory the party are attacked by a mysterious foe. Will they best their enemies, or will the Cultists and Traitors overcome them?"
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Dungeon Master - Stephen
+  - Scrutiny the Tiefling 
+  - Eldern Ægis, Paladin of Ionidae 
+  - Istra, 100% Human
+  - Hans Brander
 draft: false
-disableTOC: true
 ---
 
-The party arrive at the ruined library, but are they prepared for what they find?
-
 Listen to the episode on PodBean:
-{{< podbean 9qipx-fdb3ca >}}
+{{< podbean q5n9e-f7ff7a >}}
+
+Deep in enemy territory the party are attacked by a mysterious foe. Will they best their enemies, or will the Cultists and Traitors overcome them?
 
 --------------------------
 ## Follow us on Social Media: 

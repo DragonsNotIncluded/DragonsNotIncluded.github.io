@@ -1,6 +1,7 @@
 ---
 title: "Episode 15: Mind Your Manors"
 date: 2021-05-04
+description: Whilst escorting their friends home, the party encounter danger in the ruined streets of Kenabres.
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
@@ -9,7 +10,9 @@ categories:
 tags:
   - Character- Joe 
   - Character- Dungeon Master
+  - Todo
 draft: false
+disableTOC: true
 ---
 
 {{< podbean 3cjsv-102951b >}}

@@ -1,24 +1,27 @@
 ---
-title: "Episode 13: Riot in the Library"
-date: 2021-03-15
-description: The party arrive at the ruined library, but are they prepared for what they find?
+title: "Episode 08: Critical Encounters of the Third Kind"
+date: 2021-01-25
+# lastmod: 2022-06-07T15:24:35+01:00
+# nolastmod: true
+description: "The party comes face to face with the leader of the cultists in the caverns. Do they have the mettle to face her, or will her machinations overwhelm them? "
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Dungeon Master - Stephen
+  - Scrutiny the Tiefling 
+  - Eldern Ægis, Paladin of Ionidae 
+  - Istra, 100% Human
+  - Hans Brander
 draft: false
-disableTOC: true
 ---
 
-The party arrive at the ruined library, but are they prepared for what they find?
-
 Listen to the episode on PodBean:
-{{< podbean 9qipx-fdb3ca >}}
+{{< podbean ukbav-f88a9f >}}
+
+The party comes face to face with the leader of the cultists in the caverns. Do they have the mettle to face her, or will her machinations overwhelm them? 
 
 --------------------------
 ## Follow us on Social Media: 

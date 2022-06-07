@@ -1,6 +1,7 @@
 ---
 title: "Episode 12: Rubble Trouble"
 date: 2021-03-10
+description: The party explore the ruins of the city, but are they alone as they think they are?
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
@@ -9,13 +10,15 @@ categories:
 tags:
   - Character- Joe 
   - Character- Dungeon Master
+  - Todo
 draft: false
+disableTOC: true
 ---
 
 The party explore the ruins of the city, but are they alone as they think they are?
 
 Listen to the episode on PodBean:
-{{< podbean 9qipx-fdb3ca >}}
+{{< podbean nkgjp-fd3f2e >}}
 
 --------------------------
 ## Follow us on Social Media: 

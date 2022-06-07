@@ -1,24 +1,28 @@
 ---
-title: "Episode 13: Riot in the Library"
-date: 2021-03-15
-description: The party arrive at the ruined library, but are they prepared for what they find?
+title: "Episode 02: In the Land Down Under"
+date: 2020-12-07
+# lastmod: 2022-06-07T15:40:33+01:00
+# nolastmod: true
+description: "The party explore the caverns under the city. Will they make it back to the surface or die trying?"
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Dungeon Master - Stephen
+  - Scrutiny the Tiefling 
+  - Eldern Ægis, Paladin of Ionidae 
+  - Istra, 100% Human
+  - Hans Brander
 draft: false
-disableTOC: true
+disableToC: false
 ---
 
-The party arrive at the ruined library, but are they prepared for what they find?
-
 Listen to the episode on PodBean:
-{{< podbean 9qipx-fdb3ca >}}
+{{< podbean r39um-f44a8e >}}
+
+The party explore the caverns under the city. Will they make it back to the surface or die trying?
 
 --------------------------
 ## Follow us on Social Media: 

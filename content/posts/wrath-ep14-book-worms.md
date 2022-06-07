@@ -1,6 +1,7 @@
 ---
 title: "Episode 14: Book Worms"
 date: 2021-04-05
+description: The party uncover the fate of both the Librarium and the Riftwardens. But what will this mean for the future of Kenabres.
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
@@ -9,7 +10,9 @@ categories:
 tags:
   - Character- Joe 
   - Character- Dungeon Master
+  - Todo
 draft: false
+disableTOC: true
 ---
 
 {{< podbean 82tui-ffb0aa >}}

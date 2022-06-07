@@ -1,24 +1,28 @@
 ---
-title: "Episode 13: Riot in the Library"
-date: 2021-03-15
-description: The party arrive at the ruined library, but are they prepared for what they find?
+title: "Episode 11: Mazes & Monsters"
+date: 2021-02-15
+# lastmod: 2022-06-07T14:02:09+01:00
+# nolastmod: true
+description: "Trapped in a deadly maze, the party must fight for their lives if the ever want to make it home."
 author: Dungeon Master
+# avatar: /img/author.jpg
+# authorlink: https://author.site
+tags: [ Dungeon Master, Joe, Todo ]
 featured_image: "/img/dagon_temp_smallbi2bf.png"
+# images is optional, but needed for showing Twitter Card
+images: []
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
-tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+comment: false
 draft: false
-disableTOC: true
+private: true
 ---
 
-The party arrive at the ruined library, but are they prepared for what they find?
-
 Listen to the episode on PodBean:
-{{< podbean 9qipx-fdb3ca >}}
+{{< podbean qcju9-fac44e >}}
+
+Trapped in a deadly maze, the party must fight for their lives if the ever want to make it home.
 
 --------------------------
 ## Follow us on Social Media: 

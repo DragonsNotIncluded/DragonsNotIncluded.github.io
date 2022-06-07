@@ -1,24 +1,27 @@
 ---
-title: "Episode 13: Riot in the Library"
-date: 2021-03-15
-description: The party arrive at the ruined library, but are they prepared for what they find?
+title: "Episode 05: Holm Sweet Holm"
+date: 2021-01-05
+# lastmod: 2022-06-07T15:35:36+01:00
+# nolastmod: true
+description: "The party find respite in the underground village, but will their new allies be able to help get them home?"
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Dungeon Master - Stephen
+  - Scrutiny the Tiefling 
+  - Eldern Ægis, Paladin of Ionidae 
+  - Istra, 100% Human
+  - Hans Brander
 draft: false
-disableTOC: true
 ---
 
-The party arrive at the ruined library, but are they prepared for what they find?
-
 Listen to the episode on PodBean:
-{{< podbean 9qipx-fdb3ca >}}
+{{< podbean 2ipv7-f6bbca >}}
+
+The party find respite in the underground village, but will their new allies be able to help get them home?
 
 --------------------------
 ## Follow us on Social Media: 

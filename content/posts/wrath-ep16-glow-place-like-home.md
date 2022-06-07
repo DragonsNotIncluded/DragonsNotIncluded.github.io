@@ -1,6 +1,7 @@
 ---
 title: "Episode 16: There's Glow Place Like Home"
 date: 2021-06-03
+description: A hidden foe catches the party off guard. Will this long planned revenge overcome them?
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
@@ -9,7 +10,9 @@ categories:
 tags:
   - Character- Joe 
   - Character- Dungeon Master
+  - Todo
 draft: false
+disableTOC: true
 ---
 
 {{< podbean 49suk-105448b >}}

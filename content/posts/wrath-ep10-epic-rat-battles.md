@@ -1,24 +1,25 @@
 ---
-title: "Episode 13: Riot in the Library"
-date: 2021-03-15
-description: The party arrive at the ruined library, but are they prepared for what they find?
+title: "Episode 10: Epic Rat Battles"
+date: 2021-02-08
+# lastmod: 2022-06-07T14:51:16+01:00
+# nolastmod: true
+description: Attacked by rats deep underground, the party must fight onward to reach the surface.
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
+  - Joe 
+  - Dungeon Master
   - Todo
 draft: false
-disableTOC: true
 ---
 
-The party arrive at the ruined library, but are they prepared for what they find?
-
 Listen to the episode on PodBean:
-{{< podbean 9qipx-fdb3ca >}}
+{{< podbean rfcsr-f9f2ef >}}
+
+Attacked by rats deep underground, the party must fight onward to reach the surface.
 
 --------------------------
 ## Follow us on Social Media: 
