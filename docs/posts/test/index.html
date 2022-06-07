@@ -356,6 +356,24 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 					
 				
 			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#google-docsdrive" onclick="onNavClick(`#google-docsdrive-nav`)" id="google-docsdrive-nav">
+									Google Docs/Drive
+								</a>
+							</li>
+						
+						
+					
+				
+			
 		</ul>
 	</div>
 
@@ -582,6 +600,24 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 					
 				
 			
+				
+				
+					
+						
+						
+						
+						
+						
+							<li>
+								<a href="#google-docsdrive" onclick="onNavClick(`#google-docsdrive-nav`)" id="google-docsdrive-nav">
+									Google Docs/Drive
+								</a>
+							</li>
+						
+						
+					
+				
+			
 		</ul>
 	</div>
 
@@ -793,17 +829,27 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 <p>How to embed a HearThis.at <a href="https://hearthis.at/">1</a> audiobook (quite good for hosting unlimited audio)</p>
 <p><code>{{&lt; hearthis 6405965 &gt;}}</code>
 
-<div class="embed podcast-hearthis">
-	<iframe 
-	scrolling="no" 
-	frameborder="0" 
-	allowtransparency
-	id="hearthis_at_track_6405965" 
-	width="100%" height="150" 
-	src="https://hearthis.at/embed/6405965/transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=2&background=1&waveform=0&cover=0&autoplay=0&css=" 
-	>
-	</iframe>
-</div>
+
+
+
+	<div class="embed podcast-hearthis">
+		<iframe 
+		scrolling="no" 
+		frameborder="0" 
+		allowtransparency
+		
+			id="hearthis_at_track_" 
+			src="https://hearthis.at/embed//transparent_black/?hcolor=&color=&style=2&block_size=2&block_space=2&background=1&waveform=0&cover=0&autoplay=0&css=" 
+			height="150" 
+		
+		
+			height="350"
+		
+		width="100%" 
+		>
+		</iframe>
+	</div>
+
 
 
 	<script>
@@ -865,6 +911,308 @@ Ported from <a href="https://mak1t0.cc/" target="_blank" rel="noreferrer noopene
 <img src="https://en.wikipedia.org/static/images/project-logos/enwiki.png" alt="Wikipedia logo"></p>
 <p>To render local images, put the images anywhere in <code>[website folder]/static/img/optionalFolder</code> and embed them thusly:</p>
 <p><img src="/img/customWallpaper.png" alt="Custom Wallpaper image embed"></p>
+<h2 id="google-docsdrive">Google Docs/Drive</h2>
+<p>and other miscellaneous new examples</p>
+
+
+
+
+
+	
+		<div class="embed google-forms">
+			<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdqRDjIhpvL1QTk_tnfzQ-KinpnykdcdpZsI9raxQgYBdxEnA/viewform?embedded=true" 
+			width="100%" 
+			height="720"
+			
+			frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" style="max-width: 100%; border: none; display: block; margin: auto;" 
+			>Loading Google Forms…</iframe>
+			<a href="https://docs.google.com/forms/">
+			<img alt="Google Forms" style="top:-36px; position:relative; z-index:9; float: left;" height="32" src="https://www.gstatic.com/images/branding/product/1x/forms_2020q4_48dp.png">
+			</a>
+		</div>
+		
+			<script>
+				console.log("Loaded user-editable external survey from Google Forms");
+			</script>
+		
+	
+
+
+	
+
+
+	
+
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+		<div class="embed google-docs">
+			<iframe src="https://docs.google.com/document/d/e/2PACX-1vRbMhPNvB2UrcR91LquW50yGuOc1GiVHx8fxFeYk7e9voUdJ3GixKXt0Ibl2DE0uYBI2xRKLuG2-omt/pub?embedded=true"
+			width="100%" 
+			height="150"
+			
+			frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" style="max-width: 100%; border: 1px solid lightgray; display: block; margin: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" 
+			>Loading Google Docs…</iframe>
+			<a href="https://docs.google.com/document/">
+			<img alt="Google Docs" style="top:-36px; position:relative; z-index:9; float: left;" height="32" src="https://www.gstatic.com/images/branding/product/1x/docs_2020q4_48dp.png">
+			</a>
+		</div>
+		
+			<script>
+				console.log("Loaded external document from Google Docs");
+			</script>
+		
+	
+
+
+	
+
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+<p>hello</p>
+
+
+
+
+
+	
+
+
+	
+
+
+	
+		<div class="embed google-sheets">
+			<a href="https://docs.google.com/spreadsheets/">
+			<img alt="Google Sheets" style="top: 32px; right: -4px; position:relative; z-index:9; float: right;" height="32" src="https://www.gstatic.com/images/branding/product/1x/sheets_2020q4_48dp.png">
+			</a>
+			<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSGxyqlVTF4h3IWmE-9qZ-XDxwmui9oYkPsEnlz9zWPNSbjF6KYc26xgDrtmPhTbo5XTrRdeIsZfQod/pubhtml?widget=true&amp;headers=false"
+			width="100%" 
+			height="150"
+						
+			frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" style="max-width: 100%; border: 1px solid lightgray; display: block; margin: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+			>Loading Google Sheets…</iframe>
+		</div>
+		
+			<script>
+				console.log("Loaded external spreadsheet from Google Sheets");
+			</script>
+		
+	
+
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+<p>
+
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+		<div class="embed google-slides">
+			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRHHaawI-GBqV1IPMCk21k6aVCb90vqQI728iq5swPVLc7qE3DBpAH2VS6xKJueMJ8u9l75wHCpViDe/embed?start=false&loop=false&delayms=3000"
+			frameborder="0"  
+			width="960" height="569" 
+			
+			allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+			style="max-width: 100%; border: 1px solid lightgray; display: block; margin: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+			>Loading Google Slides…</iframe>
+			<a href="https://docs.google.com/presentation/">
+			<img alt="Google Slides" style="top:-36px; position:relative; z-index:9; float: right;" height="32" src="https://www.gstatic.com/images/branding/product/1x/slides_2020q4_48dp.png">
+			</a>	
+		</div>
+		
+			<script>
+				console.log("Loaded external slideshow from Google Slides");
+			</script>
+		
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+	
+
+	
+		<div class="embed google-drawings">
+			<img src="https://docs.google.com/drawings/d/e/2PACX-1vSA3jr0M_WncpW-WEybOzL_VQ96vN_f5c3aq8BfGFp9T_kZF1KUMYkRHNqtwt0VDPHi7UAHGzAzdTdJ/pub?
+			w=480&amp;h=360
+			" 
+			style="max-width: 100%; border: 1px solid lightgray; display: block; margin: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);"
+			alt="Image loaded from Google Drawings…">
+			<a href="https://docs.google.com/drawings/">
+			<img alt="Google Drawings" style="top:-36px; position:relative; z-index:9; float: right;" height="32" src="https://www.gstatic.com/images/branding/product/1x/drawings_48dp.png">
+			</a>	
+		</div>
+		
+			<script>
+				console.log("Loaded external image from Google Drawings");
+			</script>
+		
+	
+
+
+
+
+
+
+
+</p>
+
+
+
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+	
+
+	
+
+
+
+		<div class="embed google-drive">
+		<a href="https://drive.google.com/">
+			<img alt="Google Drive" style="bottom: -50px; right: 32px; position:relative; z-index:9; float: right;" height="32" src="/img/logos/Google_Drive_logo_(2014-2020).png">
+			</a>
+			<iframe src="https://drive.google.com/file/d/13RQADLIapSkgvetN9ia9UYcuGwb7CAay/preview" 
+			width="1024" height="768" 
+			
+			style="max-width: 100%; border: 1px solid lightgray; display: block; margin: auto; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); position: relative;"
+			allow="autoplay">Loading from Google Drive…</iframe>
+		</div>
+			
+			<script>
+				console.log("Loaded external file from Google Drive");
+			</script>
+		
+	
+
+
+
+
+
+
+
+
+	<div embed imgur style="text-align: center;">
+
+	<blockquote class="imgur-embed-pub" lang="en" data-id="a/HgI7jNC" ></blockquote>
+	<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+	</div>
+
+
+
+	<script>
+		console.log("Loaded external cat pictures from Imgur (and tracking scripts from Alexametrics, Facebook and Quantserve)");
+		console.log("Just download the pictures/GIFs and serve them locally already!");
+	</script>
+
+
+
+
+
+	<div class="embed nft">
+		<nft-card
+		contractAddress="0xd1e5b0ff1287aa9f9a268759062e4ab08b9dacbe"
+		tokenId="105497419635294095894519942330270477445331529530180169464364453130971299318396"
+			
+		
+		
+		
+		>
+		</nft-card>
+		<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+	</div>
+
+
+
+	<script>
+		console.log("Funged external Non-Fungible Token from Opensea.io");
+		console.log("WARNING! NFTs, crypto and their promoters are stupid scams for idiots and money-laundering; don't fall for it!");
+	</script>
+
+
 <p>Reference-style links below this line in the source code (invisible on rendered site, they are rendered as direct links):</p>
 <hr>
 
