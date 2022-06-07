@@ -9,6 +9,9 @@ theme = ["hugo-theme-diary", "darths-hugo-shortcodes"]
 # recommended for GitHub pages
 publishDir = 'docs'
 
+# Author pages hack https://www.netlify.com/blog/2018/07/24/hugo-tips-how-to-create-author-pages/
+disableKinds = ["taxonomyTerm"]
+
 [markup]
   [markup.highlight]
     codeFences = true
@@ -25,6 +28,7 @@ publishDir = 'docs'
 subtitle = "Themed by Diary."
 enableGitalk = false
 debug = true
+Hero= "/img/dagon_temp_smallbi2bf.png"
 
 favicon = "/favicons/favicon.ico"
 customWallpaper = "/img/customWallpaper.png"
