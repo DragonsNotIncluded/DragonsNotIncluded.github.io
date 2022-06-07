@@ -6,6 +6,7 @@ draft: false
 
 something new
 
+
 # Examples in Markdown
 *The above is a Level 1 Title*
 
@@ -122,6 +123,27 @@ Wikipedia logo from Wikipedia, The Free Encyclopaedia:
 To render local images, put the images anywhere in `[website folder]/static/img/optionalFolder` and embed them thusly:
 
 ![Custom Wallpaper image embed](/img/customWallpaper.png)
+
+## Google Docs/Drive
+and other miscellaneous new examples
+
+{{< google forms 1FAIpQLSdqRDjIhpvL1QTk_tnfzQ-KinpnykdcdpZsI9raxQgYBdxEnA medium >}}
+
+{{< google docs 2PACX-1vRbMhPNvB2UrcR91LquW50yGuOc1GiVHx8fxFeYk7e9voUdJ3GixKXt0Ibl2DE0uYBI2xRKLuG2-omt small >}}
+
+hello
+
+{{< google sheets 2PACX-1vSGxyqlVTF4h3IWmE-9qZ-XDxwmui9oYkPsEnlz9zWPNSbjF6KYc26xgDrtmPhTbo5XTrRdeIsZfQod small >}}
+
+{{< google slides 2PACX-1vRHHaawI-GBqV1IPMCk21k6aVCb90vqQI728iq5swPVLc7qE3DBpAH2VS6xKJueMJ8u9l75wHCpViDe medium >}}
+{{< google drawings 2PACX-1vSA3jr0M_WncpW-WEybOzL_VQ96vN_f5c3aq8BfGFp9T_kZF1KUMYkRHNqtwt0VDPHi7UAHGzAzdTdJ small >}}
+
+{{< google drive 13RQADLIapSkgvetN9ia9UYcuGwb7CAay medium >}}
+
+
+{{< imgur HgI7jNC  >}}
+
+{{< funge contractAddress="0xd1e5b0ff1287aa9f9a268759062e4ab08b9dacbe" tokenId="105497419635294095894519942330270477445331529530180169464364453130971299318396" >}}
 
 Reference-style links below this line in the source code (invisible on rendered site, they are rendered as direct links):
 
