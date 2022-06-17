@@ -7,9 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>2020-2022, Dragons Not Included.</copyright>
-    <lastBuildDate>Mon, 11 Apr 2022 18:48:45 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://dragonsnotincluded.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Welcome to Dragons Not Included</title>
+        <link>https://dragonsnotincluded.github.io/posts/welcome/</link>
+        <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://dragonsnotincluded.github.io/posts/welcome/</guid>
+        <description>Dragons Not Included https://dragonsnotincluded.github.io/posts/welcome/ -&lt;p&gt;Hello and welcome to the Dragons Not Included podcast.&lt;/p&gt;
+&lt;p&gt;We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.&lt;/p&gt;
+&lt;p&gt;So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.&lt;/p&gt;
+- https://dragonsnotincluded.github.io/posts/welcome/ - 2020-2022, Dragons Not Included.</description>
+        </item>
     
     
     
@@ -47,7 +61,11 @@
         <pubDate>Mon, 11 Apr 2022 18:48:45 +0100</pubDate>
         
         <guid>https://dragonsnotincluded.github.io/posts/test/</guid>
-        <description>Dragons Not Included https://dragonsnotincluded.github.io/posts/test/ -&lt;p&gt;something new&lt;/p&gt;
+        <description>Dragons Not Included https://dragonsnotincluded.github.io/posts/test/ -&lt;p&gt;Hello and welcome to the Dragons Not Included podcast.&lt;/p&gt;
+&lt;p&gt;We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.&lt;/p&gt;
+&lt;p&gt;So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.
+So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.
+something new&lt;/p&gt;
 &lt;h1 id=&#34;examples-in-markdown&#34;&gt;Examples in Markdown&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;The above is a Level 1 Title&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Hello, Dungeon Master. I have added a lot of Markdown examples to this document.&lt;/p&gt;
@@ -845,50 +863,6 @@
 &lt;p&gt;&lt;strong&gt;The Pathfinder Roleplaying Game:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://paizo.com/pathfinder&#34;&gt;https://paizo.com/pathfinder&lt;/a&gt;&lt;/p&gt;
 - https://dragonsnotincluded.github.io/posts/wrath-ep11-mazes-and-monsters/ - 2020-2022, Dragons Not Included.</description>
-        </item>
-    
-    
-    
-        <item>
-        <title>Episode 10: Epic Rat Battles</title>
-        <link>https://dragonsnotincluded.github.io/posts/wrath-ep10-epic-rat-battles/</link>
-        <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://dragonsnotincluded.github.io/posts/wrath-ep10-epic-rat-battles/</guid>
-        <description>Dragons Not Included https://dragonsnotincluded.github.io/posts/wrath-ep10-epic-rat-battles/ -&lt;p&gt;Listen to the episode on PodBean:
-
-&lt;div class=&#34;embed podcast-podbean&#34;&gt;
-	&lt;iframe title=&#34;PodBean Podcast Episode&#34; 
-	allowtransparency=&#34;true&#34; 
-	height=&#34;150&#34; width=&#34;100%&#34; 
-	style=&#34;border: none; min-width: min(100%, 430px);&#34; 
-	scrolling=&#34;no&#34; 
-	data-name=&#34;pb-iframe-player&#34; 
-	src=&#34;https://www.podbean.com/player-v2/?from=embed&amp;i=rfcsr-f9f2ef&amp;share=1&amp;download=1&amp;fonts=Arial&amp;skin=1b1b1b&amp;font-color=auto&amp;rtl=0&amp;logo_link=episode_page&amp;btn-skin=c73a3a&amp;size=150&#34;&gt;
-	&lt;/iframe&gt;
-&lt;/div&gt;
-
-
-	&lt;script&gt;
-		console.log(&#34;Loaded external content from PodBean.com&#34;);
-	&lt;/script&gt;
-
-&lt;/p&gt;
-&lt;p&gt;Attacked by rats deep underground, the party must fight onward to reach the surface.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;follow-us-on-social-media&#34;&gt;Follow us on Social Media:&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://feed.podbean.com/dragonsnotincluded/feed.xml&#34;&gt;Subscribe to Podcast&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.facebook.com/Dragons-Not-Included-Podcast-103097024812637&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://twitter.com/PodcastDragons&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Check out &lt;a href=&#34;https://soundcloud.com/user-520878457&#34;&gt;Social Introvert&amp;rsquo;s Soundcloud&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;music-and-sound-by-syrinscape&#34;&gt;Music and Sound by Syrinscape&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Because Epic Games Need Epic Sound:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://syrinscape.com/attributions/?id=527&amp;amp;id=17&amp;amp;id=1087&#34;&gt;Get Syrinscape via our affiliate link&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The Pathfinder Roleplaying Game:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://paizo.com/pathfinder&#34;&gt;https://paizo.com/pathfinder&lt;/a&gt;&lt;/p&gt;
-- https://dragonsnotincluded.github.io/posts/wrath-ep10-epic-rat-battles/ - 2020-2022, Dragons Not Included.</description>
         </item>
     
     

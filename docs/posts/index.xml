@@ -7,19 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>2020-2022, Dragons Not Included.</copyright>
-    <lastBuildDate>Mon, 11 Apr 2022 18:48:45 +0100</lastBuildDate><atom:link href="https://dragonsnotincluded.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dragonsnotincluded.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Dragons Not Included</title>
+      <link>https://dragonsnotincluded.github.io/posts/welcome/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/posts/welcome/</guid>
+      <description>Hello and welcome to the Dragons Not Included podcast.
+We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.
+So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>https://dragonsnotincluded.github.io/posts/test/</link>
       <pubDate>Mon, 11 Apr 2022 18:48:45 +0100</pubDate>
       
       <guid>https://dragonsnotincluded.github.io/posts/test/</guid>
-      <description>something new
-Examples in Markdown The above is a Level 1 Title
-Hello, Dungeon Master. I have added a lot of Markdown examples to this document.
-- Kind regards, your webmaster Darren
-To edit Markdown, you can use any text editor, but I recommend one with a preview, for example (also, this is how you do links):
- Ghostwriter MarkdownPad 2 Notepad++, with this plugin Sublime Text 3, with this plugin Marktext (very similar to the commercial Typora)  This is a subtitle (Level 2) (and some basic examples of text formatting and lists)</description>
+      <description>Hello and welcome to the Dragons Not Included podcast.
+We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.
+So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path. So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.</description>
     </item>
     
     <item>
