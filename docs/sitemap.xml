@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dragonsnotincluded.github.io/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/posts/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/posts/welcome/</loc>
-    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dragonsnotincluded.github.io/about/</loc>
     <lastmod>2022-06-07T15:11:54+01:00</lastmod>
+  </url><url>
+    <loc>https://dragonsnotincluded.github.io/</loc>
+    <lastmod>2022-04-11T18:48:45+01:00</lastmod>
+  </url><url>
+    <loc>https://dragonsnotincluded.github.io/posts/</loc>
+    <lastmod>2022-04-11T18:48:45+01:00</lastmod>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/posts/test/</loc>
     <lastmod>2022-04-11T18:48:45+01:00</lastmod>
@@ -26,22 +23,25 @@
     <loc>https://dragonsnotincluded.github.io/categories/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/character-dungeon-master/</loc>
-    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/character-joe/</loc>
+    <loc>https://dragonsnotincluded.github.io/tags/eldon/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/posts/wrath-ep16-glow-place-like-home/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://dragonsnotincluded.github.io/tags/hans/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dragonsnotincluded.github.io/tags/istra/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dragonsnotincluded.github.io/categories/podcast/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/</loc>
+    <loc>https://dragonsnotincluded.github.io/tags/scrutiny/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/todo/</loc>
+    <loc>https://dragonsnotincluded.github.io/tags/</loc>
     <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/posts/wrath-ep15-mind-your-manors/</loc>
@@ -56,13 +56,7 @@
     <loc>https://dragonsnotincluded.github.io/posts/wrath-ep12-rubble-trouble/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/dungeon-master/</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dragonsnotincluded.github.io/posts/wrath-ep11-mazes-and-monsters/</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/joe/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/categories/wrath-of-the-righteous/</loc>
@@ -71,31 +65,7 @@
     <loc>https://dragonsnotincluded.github.io/posts/wrath-ep10-epic-rat-battles/</loc>
     <lastmod>2021-02-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/dan/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/david/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/dungeon-master-stephen/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/eldern-%C3%A6gis-paladin-of-ionidae/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dragonsnotincluded.github.io/posts/wrath-ep09-that-belongs-in-a-museum/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/hans-brander/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/istra-100-human/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/rowan/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/scrutiny-the-tiefling/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/posts/wrath-ep08-critical-encounters-3rd-kind/</loc>
@@ -122,45 +92,10 @@
     <loc>https://dragonsnotincluded.github.io/posts/wrath-ep01-the-beginning-of-the-end/</loc>
     <lastmod>2020-11-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/categories/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/text/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/posts/chinese/</loc>
-    <lastmod>2019-11-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/typography/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/posts/post-5/</loc>
-    <lastmod>2018-03-18T12:13:38+05:30</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/posts/post-1/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/primer/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/categories/todo/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/posts/chapter-6/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/categories/story/</loc>
-    <lastmod>2017-04-14T11:25:05-04:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/posts/chapter-1/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/scene/</loc>
-    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <loc>https://dragonsnotincluded.github.io/tags/announcement/</loc>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/authors/</loc>
+  </url><url>
+    <loc>https://dragonsnotincluded.github.io/posts/welcome/</loc>
   </url>
 </urlset>

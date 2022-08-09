@@ -35,32 +35,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>Chinese</title>
-      <link>https://dragonsnotincluded.github.io/categories/chinese/</link>
-      <pubDate>Thu, 14 Nov 2019 11:25:05 -0400</pubDate>
-      
-      <guid>https://dragonsnotincluded.github.io/categories/chinese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Todo</title>
-      <link>https://dragonsnotincluded.github.io/categories/todo/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
-      
-      <guid>https://dragonsnotincluded.github.io/categories/todo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Story</title>
-      <link>https://dragonsnotincluded.github.io/categories/story/</link>
-      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
-      
-      <guid>https://dragonsnotincluded.github.io/categories/story/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

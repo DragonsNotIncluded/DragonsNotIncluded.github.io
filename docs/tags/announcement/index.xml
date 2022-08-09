@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcement on Dragons Not Included</title>
+    <link>https://dragonsnotincluded.github.io/tags/announcement/</link>
+    <description>Recent content in Announcement on Dragons Not Included</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>2020-2022, Dragons Not Included.</copyright><atom:link href="https://dragonsnotincluded.github.io/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to Dragons Not Included</title>
+      <link>https://dragonsnotincluded.github.io/posts/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/posts/welcome/</guid>
+      <description>You walk into a tavern and roll a dice.
+Hello and welcome to the Dragons Not Included podcast.
+We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.
+So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.</description>
+    </item>
+    
+  </channel>
+</rss>
