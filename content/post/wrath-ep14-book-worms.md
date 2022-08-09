@@ -27,17 +27,11 @@ The party uncover the fate of both the Librarium and the Riftwardens. But what w
 - [Facebook](https://www.facebook.com/Dragons-Not-Included-Podcast-103097024812637)
 - [Twitter](https://twitter.com/PodcastDragons)
 
-**Check out [Social Introvert's Soundcloud]!**
-
-### Music and Sound by Syrinscape
-
-**Because Epic Games Need Epic Sound:**
-
-[Get Syrinscape via our affiliate link]
-
-**The Pathfinder Roleplaying Game:**
-
-https://paizo.com/pathfinder
+## Credits
+- Check out [Social Introvert's Soundcloud]
+- [Syrinscape] Because Epic Games Need Epic Sound
+- [Pathfinder Roleplaying Game]
 
 [Social Introvert's Soundcloud]: https://soundcloud.com/user-520878457
-[Get Syrinscape via our affiliate link]: https://syrinscape.com/attributions/?id=527&id=17&id=1087
+[Syrinscape]: https://syrinscape.com/attributions/?id=1087&id=6417
+[Pathfinder Roleplaying Game]: https://paizo.com/pathfinder
