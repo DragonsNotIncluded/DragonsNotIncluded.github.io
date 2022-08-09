@@ -5,7 +5,7 @@ description: The party arrive at the ruined library, but are they prepared for w
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
   - Scrutiny

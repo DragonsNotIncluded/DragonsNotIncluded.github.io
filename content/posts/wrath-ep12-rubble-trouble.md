@@ -5,7 +5,7 @@ description: The party explore the ruins of the city, but are they alone as they
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
   - Scrutiny

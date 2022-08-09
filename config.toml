@@ -27,7 +27,7 @@ enableGitalk = false
 debug = true
 
 favicon = "/favicons/favicon.ico"
-customWallpaper = "/img/customWallpaper.png"
+customWallpaper = "/img/Test background.jpg"
 #customWallpaperDark = "/img/customWallpaperDark.png"
 enableAutoDarkMode=true
 

@@ -5,7 +5,7 @@ description: The party uncover the fate of both the Librarium and the Riftwarden
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
   - Scrutiny

@@ -4,8 +4,9 @@ date: 2021-06-03
 description: A hidden foe catches the party off guard. Will this long planned revenge overcome them?
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
-  - Adventure- Wrath of the Righteous
+  - Wrath of the Righteous
   - Podcast
 tags:
   - Scrutiny
