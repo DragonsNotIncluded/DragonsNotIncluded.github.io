@@ -4,7 +4,7 @@ date: 2021-02-15
 # lastmod: 2022-06-07T14:02:09+01:00
 # nolastmod: true
 description: "Trapped in a deadly maze, the party must fight for their lives if they ever want to make it home."
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 author: Dungeon Master
 # avatar: /img/author.jpg
 # authorlink: https://author.site

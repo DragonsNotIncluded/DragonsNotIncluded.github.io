@@ -5,7 +5,7 @@ date: 2021-02-01
 # nolastmod: true
 description: "The party find a holy relic of the crusades that was stolen by the cultists. As well as information that could mean life or death for the city above."
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

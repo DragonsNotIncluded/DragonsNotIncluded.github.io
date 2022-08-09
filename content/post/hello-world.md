@@ -1,5 +1,7 @@
 ---
 title: "Hello World"
+description: "Coming soon: the launch of the adventure podcast!"
+image: "/img/Coming Soon.jpg"
 date: 2022-04-10T02:28:09+01:00
 draft: false
 ---

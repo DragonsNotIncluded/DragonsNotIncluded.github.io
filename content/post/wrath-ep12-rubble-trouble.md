@@ -3,7 +3,7 @@ title: "Episode 12: Rubble Trouble"
 date: 2021-03-10
 description: The party explore the ruins of the city, but are they alone as they think they are?
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

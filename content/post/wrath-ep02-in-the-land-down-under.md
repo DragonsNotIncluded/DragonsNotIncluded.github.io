@@ -5,7 +5,7 @@ date: 2020-12-07
 # nolastmod: true
 description: "The party explore the caverns under the city. Will they make it back to the surface or die trying?"
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

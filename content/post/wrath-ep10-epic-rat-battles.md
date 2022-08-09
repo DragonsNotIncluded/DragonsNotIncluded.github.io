@@ -5,7 +5,7 @@ date: 2021-02-08
 # nolastmod: true
 description: Attacked by rats deep underground, the party must fight onward to reach the surface.
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

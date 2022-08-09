@@ -5,7 +5,7 @@ date: 2021-01-19
 # nolastmod: true
 description: "Deep in enemy territory the party are attacked by a mysterious foe. Will they best their enemies, or will the Cultists and Traitors overcome them?"
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

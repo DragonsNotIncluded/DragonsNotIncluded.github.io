@@ -5,7 +5,7 @@ date: 2020-12-14
 # nolastmod: true
 description: "The party encounter a foul undead in the temple and group cohesion begins to splinter, will they be able to survive to make it back to the city above?"
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

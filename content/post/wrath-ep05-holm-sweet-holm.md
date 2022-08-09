@@ -5,7 +5,7 @@ date: 2021-01-05
 # nolastmod: true
 description: "The party find respite in the underground village, but will their new allies be able to help get them home?"
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

@@ -3,7 +3,7 @@ title: "Episode 13: Riot in the Library"
 date: 2021-03-15
 description: The party arrive at the ruined library, but are they prepared for what they find?
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

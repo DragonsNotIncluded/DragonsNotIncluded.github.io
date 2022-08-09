@@ -5,7 +5,7 @@ date: 2020-11-30
 # nolastmod: true
 description: "The adventure begins with the party attending a holy festival. What could go wrong?"
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

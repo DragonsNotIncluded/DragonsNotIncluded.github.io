@@ -5,7 +5,7 @@ date: 2021-01-11
 # nolastmod: true
 description: "The only thing between the party and the surface is the traitor's lair. Will they be able to make their way through?"
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

@@ -5,7 +5,7 @@ date: 2020-12-21
 # nolastmod: true
 description: "The party find that they are not alone underground. But have they found friend or foe?"
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast

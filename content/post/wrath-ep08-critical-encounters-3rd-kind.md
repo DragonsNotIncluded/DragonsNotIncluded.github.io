@@ -5,7 +5,7 @@ date: 2021-01-25
 # nolastmod: true
 description: "The party comes face to face with the leader of the cultists in the caverns. Do they have the mettle to face her, or will her machinations overwhelm them? "
 author: Dungeon Master
-featured_image: "/img/dagon_temp_smallbi2bf.png"
+image: "/img/dagon_temp_smallbi2bf.png"
 categories:
   - Wrath of the Righteous
   - Podcast
