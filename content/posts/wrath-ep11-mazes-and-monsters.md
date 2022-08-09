@@ -3,26 +3,29 @@ title: "Episode 11: Mazes & Monsters"
 date: 2021-02-15
 # lastmod: 2022-06-07T14:02:09+01:00
 # nolastmod: true
-description: "Trapped in a deadly maze, the party must fight for their lives if the ever want to make it home."
+description: "Trapped in a deadly maze, the party must fight for their lives if they ever want to make it home."
+featured_image: "/img/dagon_temp_smallbi2bf.png"
 author: Dungeon Master
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-tags: [ Dungeon Master, Joe, Todo ]
-featured_image: "/img/dagon_temp_smallbi2bf.png"
-# images is optional, but needed for showing Twitter Card
-images: []
 categories:
   - Wrath of the Righteous
   - Podcast
-comment: false
+tags:
+  - Scrutiny
+  - Eldon
+  - Istra
+  - Hans
+comment: true
 draft: false
-private: true
+disableTOC: true
+# private: true
 ---
 
 Listen to the episode on PodBean:
 {{< podbean qcju9-fac44e >}}
 
-Trapped in a deadly maze, the party must fight for their lives if the ever want to make it home.
+Trapped in a deadly maze, the party must fight for their lives if they ever want to make it home.
 
 --------------------------
 ## Follow us on Social Media: 

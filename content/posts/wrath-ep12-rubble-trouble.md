@@ -8,17 +8,19 @@ categories:
   - Adventure- Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Scrutiny
+  - Eldon
+  - Istra
+  - Hans
 draft: false
-disableTOC: true
+disableToC: true
 ---
-
-The party explore the ruins of the city, but are they alone as they think they are?
 
 Listen to the episode on PodBean:
 {{< podbean nkgjp-fd3f2e >}}
+
+
+The party explore the ruins of the city, but are they alone as they think they are?
 
 --------------------------
 ## Follow us on Social Media: 

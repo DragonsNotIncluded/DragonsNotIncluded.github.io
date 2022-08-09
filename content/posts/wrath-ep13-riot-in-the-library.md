@@ -8,17 +8,20 @@ categories:
   - Adventure- Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Scrutiny
+  - Eldon
+  - Istra
+  - Hans
 draft: false
-disableTOC: true
+disableToC: true
 ---
 
-The party arrive at the ruined library, but are they prepared for what they find?
+Listen to the episode on PodBean:
 
 Listen to the episode on PodBean:
 {{< podbean 9qipx-fdb3ca >}}
+
+The party arrive at the ruined library, but are they prepared for what they find?
 
 --------------------------
 ## Follow us on Social Media: 

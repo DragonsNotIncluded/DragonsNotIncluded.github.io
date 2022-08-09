@@ -8,13 +8,15 @@ categories:
   - Adventure- Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Scrutiny
+  - Eldon
+  - Istra
+  - Hans
 draft: false
-disableTOC: true
+disableToC: true
 ---
 
+Listen to the episode on PodBean:
 {{< podbean 82tui-ffb0aa >}}
 
 The party uncover the fate of both the Librarium and the Riftwardens. But what will this mean for the future of Kenabres.

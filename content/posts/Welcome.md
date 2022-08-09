@@ -1,8 +1,18 @@
 ---
 title: "Welcome to Dragons Not Included"
-date: 2022-06-17
+description: "You walk into a tavern and roll a dice."
+author: Dungeon Master
+featured_image: "/img/dagon_temp_smallbi2bf.png"
+categories:
+  - Wrath of the Righteous
+  - Podcast
+tags:
+  - Announcement
 draft: false
+disableToC: true
 ---
+
+You walk into a tavern and roll a dice.
 
 Hello and welcome to the Dragons Not Included podcast.
 

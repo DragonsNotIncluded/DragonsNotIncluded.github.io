@@ -10,17 +10,12 @@ categories:
   - Wrath of the Righteous
   - Podcast
 tags:
-  - Dungeon Master - Stephen
-  - Scrutiny the Tiefling 
-  - Joe 
-  - Eldern Ægis, Paladin of Ionidae 
-  - David
-  - Istra, 100% Human
-  - Rowan
-  - Hans Brander
-  - Dan
-  - Todo
+  - Scrutiny
+  - Eldon
+  - Istra
+  - Hans
 draft: false
+disableToC: true
 ---
 
 Listen to the episode on PodBean:

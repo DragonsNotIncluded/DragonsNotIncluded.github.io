@@ -8,13 +8,15 @@ categories:
   - Adventure- Wrath of the Righteous
   - Podcast
 tags:
-  - Character- Joe 
-  - Character- Dungeon Master
-  - Todo
+  - Scrutiny
+  - Eldon
+  - Istra
+  - Hans
 draft: false
-disableTOC: true
+disableToC: true
 ---
 
+Listen to the episode on PodBean:
 {{< podbean 3cjsv-102951b >}}
 
 Whilst escorting their friends home, the party encounter danger in the ruined streets of Kenabres.

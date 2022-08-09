@@ -10,10 +10,12 @@ categories:
   - Wrath of the Righteous
   - Podcast
 tags:
-  - Joe 
-  - Dungeon Master
-  - Todo
+  - Scrutiny
+  - Eldon
+  - Istra
+  - Hans
 draft: false
+disableToC: true
 ---
 
 Listen to the episode on PodBean:
