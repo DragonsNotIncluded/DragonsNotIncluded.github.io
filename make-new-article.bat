@@ -1,1 +1,1 @@
-hugo.exe new content\posts\new-article.md
+hugo.exe new content\post\new-article.md

@@ -6,6 +6,9 @@ copyright = "2020-2022, Dragons Not Included."
 theme = ["hugo-theme-massively", "darths-hugo-shortcodes"]
 # googleAnalytics = "UA-123-45"
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 # recommended for GitHub pages
 publishDir = 'docs'
 
