@@ -16,7 +16,7 @@ draft: false
 disableToC: true
 ---
 
-After many adventures, Istra has reached Level 3! She now has the following abilities and statistics:
+After battling her way through the traitor's lair and returning to the surface, Istra has reached Level 3!
 
 <link rel="stylesheet" href="css/custom.css"/>
 

@@ -15,7 +15,7 @@ draft: false
 disableToC: true
 ---
 
-After many adventures, Eldon Aegis has reached Level 3! He now has the following abilities and statistics:
+After battling his way through the traitor's lair and returning to the surface, Eldon has reached Level 3!
 
 <link rel="stylesheet" href="css/custom.css"/>
 
