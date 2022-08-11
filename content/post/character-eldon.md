@@ -3,7 +3,7 @@ title: "Eldon Aegis"
 date: 2022-08-11T12:54:43+01:00
 # lastmod: 2022-08-11T12:54:43+01:00
 # nolastmod: true
-description: ""
+description: "The Child of the Crusades"
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
@@ -14,9 +14,6 @@ tags:
 draft: false
 disableToC: true
 ---
-
-
-## Eldon Aegis
 
 {{< figure src="/img/char-art/eldon.jpg" alt="Character art" class="dropshadow" >}}
 
