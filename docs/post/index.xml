@@ -10,11 +10,38 @@
     <lastBuildDate>Thu, 11 Aug 2022 12:54:43 +0100</lastBuildDate><atom:link href="https://dragonsnotincluded.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eldon Aegis</title>
-      <link>https://dragonsnotincluded.github.io/post/character-eldon-aegis/</link>
+      <link>https://dragonsnotincluded.github.io/post/character-eldon/</link>
       <pubDate>Thu, 11 Aug 2022 12:54:43 +0100</pubDate>
       
-      <guid>https://dragonsnotincluded.github.io/post/character-eldon-aegis/</guid>
-      <description>Eldon Aegis  Eldon Aegis did not join the enlist into crusades, he was born into them. For the last century the Agegis&amp;rsquo;s fought the demons of the Worldwound valiantly and young Eldon grew up on the heroic tales of his family. When duty called Eldon bravely marched on sword in hand. He fights to defend the weak from the evil and bring the justice of his goddess to smite the demons.</description>
+      <guid>https://dragonsnotincluded.github.io/post/character-eldon/</guid>
+      <description>Eldon Aegis did not join crusades, he was born into them. For the last century the Agegis&amp;rsquo;s fought the demons of the Worldwound valiantly and young Eldon grew up on the heroic tales of his family. When duty called Eldon bravely marched on sword in hand. He fights to defend the weak from the evil and bring the justice of his goddess to smite the demons.</description>
+    </item>
+    
+    <item>
+      <title>Hans Slag-Forge</title>
+      <link>https://dragonsnotincluded.github.io/post/character-hans/</link>
+      <pubDate>Thu, 11 Aug 2022 12:54:43 +0100</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/character-hans/</guid>
+      <description>Some come to the crusade seeking honor and glory, some seek vengeance or penance, Hans came to seek the past. The dwarven Inquisitor has made it is personal mission to seek relics of the crusades and lost artifacts of the kingdoms that predate the Worldwound. His convictions to Law lead him to make sure that debt dealt to this land by the demons will be re-payed.</description>
+    </item>
+    
+    <item>
+      <title>Istra Rimetusk</title>
+      <link>https://dragonsnotincluded.github.io/post/character-istra/</link>
+      <pubDate>Thu, 11 Aug 2022 12:54:43 +0100</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/character-istra/</guid>
+      <description>Hailing from the frozen north the warrior Istra Rimetusk joined the crusade to find glory in battle and destroy the demonic hordes rolling over the Worldwound. Though fierce in battle she treats her allies with a warmth that could even melt the ice of her homeland. But there may be something else hidden behind her friendly bluster.</description>
+    </item>
+    
+    <item>
+      <title>Scrutiny</title>
+      <link>https://dragonsnotincluded.github.io/post/character-scrutiny/</link>
+      <pubDate>Thu, 11 Aug 2022 12:54:43 +0100</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/character-scrutiny/</guid>
+      <description>Scrutiny did not seek out the crusades, nor does he have any love of the church and its faithful. He stood up to fight to defend his home when it was threatened. He is skilled from frighting from the shadows, a talent augmented by his magic. Facing the power of the Worldwound with cunning and the wisdom of his namesake. He hopes his levelheadedness can temper the headstrong crusaders.</description>
     </item>
     
     <item>
@@ -228,17 +255,6 @@ Listen to the episode on PodBean: console.log(&#34;Loaded external content fr
       <description>Listen to the episode on PodBean: console.log(&#34;Loaded external content from PodBean.com&#34;);The adventure begins with the party attending a holy festival. What could go wrong?
 Join the crew of the Dragons Not Included podcast as they roll, crit and laugh their way through the Wrath of the Righteous tabletop role playing adventure.
  Follow us on Social Media:  Subscribe to Podcast Facebook Twitter  Credits  Check out Social Introvert&amp;rsquo;s Soundcloud Syrinscape Because Epic Games Need Epic Sound Pathfinder Roleplaying Game Crusade - Heavy Industry Kevin MacLeod (incompetech.</description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://dragonsnotincluded.github.io/post/test/</link>
-      <pubDate>Tue, 11 Apr 2000 18:48:45 +0100</pubDate>
-      
-      <guid>https://dragonsnotincluded.github.io/post/test/</guid>
-      <description>Hello and welcome to the Dragons Not Included podcast.
-We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.
-So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path. So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.</description>
     </item>
     
     <item>
