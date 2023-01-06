@@ -2,53 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dragonsnotincluded.github.io/categories/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
+    <loc>https://dragonsnotincluded.github.io/post/welcome/</loc>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/eldon/</loc>
     <lastmod>2022-08-11T12:54:43+01:00</lastmod>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/post/character-eldon/</loc>
     <lastmod>2022-08-11T12:54:43+01:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/hans/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
     <loc>https://dragonsnotincluded.github.io/post/character-hans/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/istra/</loc>
     <lastmod>2022-08-11T12:54:43+01:00</lastmod>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/post/character-istra/</loc>
     <lastmod>2022-08-11T12:54:43+01:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/categories/podcast/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/post/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/scrutiny/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
     <loc>https://dragonsnotincluded.github.io/post/character-scrutiny/</loc>
     <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/categories/wrath-of-the-righteous/</loc>
-    <lastmod>2022-08-11T12:54:43+01:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/character-sheets/</loc>
-    <lastmod>2022-08-09T22:00:48+01:00</lastmod>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/level-up/</loc>
-    <lastmod>2022-08-09T22:00:48+01:00</lastmod>
   </url><url>
     <loc>https://dragonsnotincluded.github.io/post/level-3-scrutiny/</loc>
     <lastmod>2022-08-09T22:00:48+01:00</lastmod>
@@ -119,12 +88,6 @@
     <loc>https://dragonsnotincluded.github.io/test/</loc>
     <lastmod>2000-04-11T18:48:45+01:00</lastmod>
   </url><url>
-    <loc>https://dragonsnotincluded.github.io/tags/announcement/</loc>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/authors/</loc>
-  </url><url>
     <loc>https://dragonsnotincluded.github.io/gallery/</loc>
-  </url><url>
-    <loc>https://dragonsnotincluded.github.io/post/welcome/</loc>
   </url>
 </urlset>
