@@ -16,6 +16,9 @@
 		
 		<noscript><link rel="stylesheet" href='/assets/css/noscript.css' /></noscript>
 		
+<script>console.log("Hello from 'layouts/partials/htmlhead.custom.html'")</script>
+<link rel="stylesheet" href="/css/custom.css">
+
 	</head>
 
 	<body lang='en' class="is-preload">
@@ -33,7 +36,7 @@
 
 <nav id="nav">
     <ul class="links">
-        <li class=""><a href='/'>Dragons Not Included</a></li><li class=""><a href='/about'>About</a></li>
+        <li class=""><a href='/'>Dragons Not Included</a></li><li class=""><a href='/gallery'>Gallery</a></li><li class=""><a href='/about'>About</a></li>
         
     </ul>
     
@@ -75,9 +78,16 @@
                                 <p>The Arcane Trickster</p>
                             </header>
                             
-                            <figure class="dropshadow"><img src="/img/char-art/scrutiny.jpg"
-         alt="Character art"/>
-</figure>
+                            
+<link rel="stylesheet" href=/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure class="dropshadow" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/char-art/scrutiny.jpg" alt="Character art"/>
+    </div>
+    <a href="/img/char-art/scrutiny.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>Scrutiny did not seek out the crusades, nor does he have any love of the church and its faithful. He stood up to fight to defend his home when it was threatened. He is skilled from frighting from the shadows, a talent augmented by his magic. Facing the power of the Worldwound with cunning and the wisdom of his namesake. He hopes his levelheadedness can temper the headstrong crusaders.</p>
 

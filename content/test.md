@@ -94,6 +94,28 @@ If you need to type a designated character, use a backslash to escape its functi
 >>>
 >>> \- anon#1234 @ 4:30pm
 
+## Gallery Embedding example
+
+One-line gallery **(note the closing slash!)**:
+`{{</* gallery dir="/path/to/folder/" /*/>}}`
+NB. it does not recurse subfolders.
+
+{{< gallery dir="/img/" />}}
+
+Then, you must call the loader somewhere on the page (visible, non-functional example):
+
+`{{</* load-photoswipe */>}}`
+
+<!-- This text, and the following, are invisible:--> 
+{{< load-photoswipe >}}
+
+### Example gallery of specific images with custom captions:
+Normally, captions are auto-generated from the image name; no visible code example as it is quite long.
+
+{{< gallery >}}
+	{{< figure src="/img/char-art/eldon.jpg" caption="This is that guy Eldon!" >}}
+	{{< figure src="/img/char-art/istra.jpg" caption="This is that totally-not-human gal Istra. I wonder if she'll betray the group? How long can captions be, I wonder? To be or not to be, that is the question, whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles and by opposing, end them. To die, to sleep, perchance to dream - 'tis a consummation devoutly to be wish'd, o'er the proud man's contumely. But fear of that undiscovered country doth make cowards of us all." >}}
+{{< /gallery >}}
 
 ## Podcast Embedding examples
 

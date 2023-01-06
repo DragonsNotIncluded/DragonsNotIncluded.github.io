@@ -1,7 +1,113 @@
+/* Global color variables */
+:root {
+	--highlight: #da2323; /* default #18bfef */
+	--navbar_idle: rgba(255, 255, 255, 0.175); /* default rgba(255, 255, 255, 0.175) */
+	--navbar_hover: rgba(255, 255, 255, 0.1); /* default rgba(255, 255, 255, 0.1) */
+}
+
+/* drop shadow for pictures */
 figure.dropshadow {
 	max-width: 100%; 
 	border: 1px solid lightgray; 
 	display: block; 
 	margin: auto; 
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Hero logo font and color */
+/* shadow/outline from https://stackoverflow.com/questions/4919076/outline-effect-to-text */
+#intro h1 {
+    color: #ffffff !important;
+	text-shadow: 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black;
+}
+
+/* Transformed header logo */
+#header .logo, a.logo {
+    color: #ffffff !important;
+	text-shadow: 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black;
+}
+
+#header .logo:hover {
+    color: var(--highlight) !important;
+	border-style: dashed;
+	border-color: #ffffff !important;
+}
+
+/* Scrolly button hover color */
+#intro input[type="submit"], #intro input[type="reset"], #intro input[type="button"], #intro .button:hover {
+	color: var(--highlight) !important;
+	box-shadow: inset 0 0 0 2px var(--highlight) !important;
+	/* border: 2px var(--highlight) dashed; */
+}
+
+/* Navbar background */
+#nav {
+	background: var(--navbar_idle);
+}
+
+/* Navbar background hover */
+#nav ul.links li a:hover  {
+	background-color: var(--navbar_hover);
+}
+
+/* Navbar text, socials icons (everywhere) hover color  */
+#nav a:hover, .icon:hover, ul.links, ul.links:hover, ul.icons li a.icon:hover:before, #nav ul.links li.active a:hover {
+	color: var(--highlight) !important;
+}
+
+ul.icons.alt li a.icon:hover:before {
+    box-shadow: inset 0 0 0 2px var(--highlight);
+}
+
+/* Article titles */
+a:hover, copyright a:hover {
+	color: var(--highlight) !important;
+}
+
+/* Article "Read more" button hover color, pagination buttons hover color */
+input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, input[type=pagination]:hover, button:hover, .button:hover {
+    box-shadow: inset 0 0 0 2px var(--highlight) !important;
+    color: var(--highlight)!important;
+	border-color: var(--highlight) !important;
+}
+
+/* Footer pagination */
+pagination a:hover, .pagination a:hover {
+	color: var(--highlight)!important;
+	border-color: var(--highlight) !important;
+}
+
+/* Footer social icons */
+#footer a.icon:hover:before {
+	color: var(--highlight) !important;
+	box-shadow: inset 0 0 0 2px var(--highlight) !important;
+}
+
+/* Copyright URLs */
+#copyright a:hover {
+	color: var(--highlight) !important;
 }

@@ -19,3 +19,9 @@ disableToC: true
 
 Eldon Aegis did not join crusades, he was born into them. For the last century the Agegis's fought the demons of the Worldwound valiantly and young Eldon grew up on the heroic tales of his family.
 When duty called Eldon bravely marched on sword in hand. He fights to defend the weak from the evil and bring the justice of his goddess to smite the demons.
+
+## Behold the gang
+Our friendly group of travelling adventurers is now assembled! Click to view the full size portraits!
+
+{{< gallery dir="/img/char-art/" />}}
+{{< load-photoswipe >}}

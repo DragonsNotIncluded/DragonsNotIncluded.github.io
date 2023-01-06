@@ -9,6 +9,18 @@
     <copyright>2020-2022, Dragons Not Included.</copyright>
     <lastBuildDate>Thu, 11 Aug 2022 12:54:43 +0100</lastBuildDate><atom:link href="https://dragonsnotincluded.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Welcome to Dragons Not Included</title>
+      <link>https://dragonsnotincluded.github.io/post/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/welcome/</guid>
+      <description>&lt;p&gt;You walk into a tavern and roll a dice.&lt;/p&gt;
+&lt;p&gt;Hello and welcome to the Dragons Not Included podcast.&lt;/p&gt;
+&lt;p&gt;We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.&lt;/p&gt;
+&lt;p&gt;So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Eldon Aegis</title>
       <link>https://dragonsnotincluded.github.io/post/character-eldon/</link>
       <pubDate>Thu, 11 Aug 2022 12:54:43 +0100</pubDate>
@@ -51,7 +63,7 @@
       
       <guid>https://dragonsnotincluded.github.io/post/level-3-scrutiny/</guid>
       <description>After battling his way through the traitor&amp;rsquo;s lair and returning to the surface, Scrutiny has reached Level 3!
-  </description>
+</description>
     </item>
     
     <item>
@@ -60,8 +72,7 @@
       <pubDate>Tue, 09 Aug 2022 21:56:58 +0100</pubDate>
       
       <guid>https://dragonsnotincluded.github.io/post/level-3-istra/</guid>
-      <description>After battling her way through the traitor&amp;rsquo;s lair and returning to the surface, Istra has reached Level 3!
-  </description>
+      <description>&lt;p&gt;After battling her way through the traitor&amp;rsquo;s lair and returning to the surface, Istra has reached Level 3!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -71,7 +82,7 @@
       
       <guid>https://dragonsnotincluded.github.io/post/level-3-hans/</guid>
       <description>After battling his way through the traitor&amp;rsquo;s lair and returning to the surface, Hans has reached Level 3!
-  </description>
+</description>
     </item>
     
     <item>
@@ -81,7 +92,7 @@
       
       <guid>https://dragonsnotincluded.github.io/post/level-3-eldon/</guid>
       <description>After battling his way through the traitor&amp;rsquo;s lair and returning to the surface, Eldon has reached Level 3!
-  </description>
+</description>
     </item>
     
     <item>
@@ -282,15 +293,19 @@ So we hope you will join us with the action, the drama and the laughs through th
     </item>
     
     <item>
-      <title>Welcome to Dragons Not Included</title>
-      <link>https://dragonsnotincluded.github.io/post/welcome/</link>
+      <title>Gallery</title>
+      <link>https://dragonsnotincluded.github.io/gallery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dragonsnotincluded.github.io/post/welcome/</guid>
-      <description>You walk into a tavern and roll a dice.
-Hello and welcome to the Dragons Not Included podcast.
-We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.
-So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.</description>
+      <guid>https://dragonsnotincluded.github.io/gallery/</guid>
+      <description>Our adventures are something special, so we have gathered memories, commissioned art and looted treasure here for you to enjoy!
+Coming soon
+Test background old
+Test background
+Custom wallpaper
+Custom wallpaper dark
+Dagon temp smallbi2bf
+Iswanto arif kxt mgheovdw unsplash</description>
     </item>
     
   </channel>

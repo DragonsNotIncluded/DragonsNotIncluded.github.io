@@ -16,6 +16,9 @@
 		
 		<noscript><link rel="stylesheet" href='/assets/css/noscript.css' /></noscript>
 		
+<script>console.log("Hello from 'layouts/partials/htmlhead.custom.html'")</script>
+<link rel="stylesheet" href="/css/custom.css">
+
 	</head>
 
 	<body lang='en' class="is-preload">
@@ -33,7 +36,7 @@
 
 <nav id="nav">
     <ul class="links">
-        <li class=""><a href='/'>Dragons Not Included</a></li><li class=""><a href='/about'>About</a></li>
+        <li class=""><a href='/'>Dragons Not Included</a></li><li class=""><a href='/gallery'>Gallery</a></li><li class=""><a href='/about'>About</a></li>
         
     </ul>
     
@@ -75,9 +78,16 @@
                                 <p>The Relic Seeker</p>
                             </header>
                             
-                            <figure class="dropshadow"><img src="/img/char-art/hans.jpg"
-         alt="Character art"/>
-</figure>
+                            
+<link rel="stylesheet" href=/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure class="dropshadow" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/char-art/hans.jpg" alt="Character art"/>
+    </div>
+    <a href="/img/char-art/hans.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>Some come to the crusade seeking honor and glory, some seek vengeance or penance, Hans came to seek the past. The dwarven Inquisitor has made it his personal mission to seek relics of the crusades and lost artifacts of the kingdoms that predate the Worldwound. His convictions to Law lead him to make sure that debt dealt to this land by the demons will be repaid.</p>
 

@@ -16,6 +16,9 @@
 		
 		<noscript><link rel="stylesheet" href='/assets/css/noscript.css' /></noscript>
 		
+<script>console.log("Hello from 'layouts/partials/htmlhead.custom.html'")</script>
+<link rel="stylesheet" href="/css/custom.css">
+
 	</head>
 
 	<body lang='en' class="is-preload">
@@ -33,7 +36,7 @@
 
 <nav id="nav">
     <ul class="links">
-        <li class=""><a href='/'>Dragons Not Included</a></li><li class=""><a href='/about'>About</a></li>
+        <li class=""><a href='/'>Dragons Not Included</a></li><li class=""><a href='/gallery'>Gallery</a></li><li class=""><a href='/about'>About</a></li>
         
     </ul>
     
@@ -77,13 +80,27 @@
                             
                             <p>After battling his way through the traitor&rsquo;s lair and returning to the surface, Scrutiny has reached Level 3!</p>
 <link rel="stylesheet" href="css/custom.css"/>
-<figure class="dropshadow"><img src="/img/char-sheets/Scrutiny%20Level%203.jpg"
-         alt="Character sheet page 1"/>
-</figure>
 
-<figure><img src="/img/char-sheets/Scrutiny%20Level%203.2.jpg"
-         alt="Character sheet page 2"/>
-</figure>
+<link rel="stylesheet" href=/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure class="dropshadow" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/char-sheets/Scrutiny%20Level%203.jpg" alt="Character sheet page 1"/>
+    </div>
+    <a href="/img/char-sheets/Scrutiny%20Level%203.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
+
+
+
+<div class="box" >
+  <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/char-sheets/Scrutiny%20Level%203.2.jpg" alt="Character sheet page 2"/>
+    </div>
+    <a href="/img/char-sheets/Scrutiny%20Level%203.2.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 
 

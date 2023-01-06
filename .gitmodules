@@ -4,3 +4,6 @@
 [submodule "themes/hugo-theme-massively"]
 	path = themes/hugo-theme-massively
 	url = https://github.com/DragonsNotIncluded/hugo-theme-massively.git
+[submodule "themes/hugo-easy-gallery"]
+	path = themes/hugo-easy-gallery
+	url = git@github.com:Darthagnon/hugo-easy-gallery.git

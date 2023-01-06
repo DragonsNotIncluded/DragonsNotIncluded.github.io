@@ -16,6 +16,9 @@
 		
 		<noscript><link rel="stylesheet" href='/assets/css/noscript.css' /></noscript>
 		
+<script>console.log("Hello from 'layouts/partials/htmlhead.custom.html'")</script>
+<link rel="stylesheet" href="/css/custom.css">
+
 	</head>
 
 	<body lang='en' class="is-preload">
@@ -33,7 +36,7 @@
 
 <nav id="nav">
     <ul class="links">
-        <li class=""><a href='/'>Dragons Not Included</a></li><li class=""><a href='/about'>About</a></li>
+        <li class=""><a href='/'>Dragons Not Included</a></li><li class=""><a href='/gallery'>Gallery</a></li><li class=""><a href='/about'>About</a></li>
         
     </ul>
     
@@ -75,12 +78,232 @@
                                 <p>The Child of the Crusades</p>
                             </header>
                             
-                            <figure class="dropshadow"><img src="/img/char-art/eldon.jpg"
-         alt="Character art"/>
-</figure>
+                            
+<link rel="stylesheet" href=/css/hugo-easy-gallery.css />
+<div class="box" >
+  <figure class="dropshadow" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+    <div class="img">
+      <img itemprop="thumbnail" src="/img/char-art/eldon.jpg" alt="Character art"/>
+    </div>
+    <a href="/img/char-art/eldon.jpg" itemprop="contentUrl"></a>
+  </figure>
+</div>
 
 <p>Eldon Aegis did not join crusades, he was born into them. For the last century the Agegis&rsquo;s fought the demons of the Worldwound valiantly and young Eldon grew up on the heroic tales of his family.
 When duty called Eldon bravely marched on sword in hand. He fights to defend the weak from the evil and bring the justice of his goddess to smite the demons.</p>
+<h2 id="behold-the-gang">Behold the gang</h2>
+<p>Our friendly group of travelling adventurers is now assembled! Click to view the full size portraits!</p>
+<p>
+
+<div class="gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+        <div class="box">
+          <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <div class="img" style="background-image: url('https://dragonsnotincluded.github.io//img/char-art//eldon.jpg');" >
+              <img itemprop="thumbnail" src="https://dragonsnotincluded.github.io//img/char-art//eldon.jpg" alt="Eldon" />
+            </div>
+            <figcaption>
+              <p>Eldon</p>
+            </figcaption>
+            <a href="https://dragonsnotincluded.github.io//img/char-art//eldon.jpg" itemprop="contentUrl"></a>
+          </figure>
+        </div>
+        <div class="box">
+          <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <div class="img" style="background-image: url('https://dragonsnotincluded.github.io//img/char-art//hans.jpg');" >
+              <img itemprop="thumbnail" src="https://dragonsnotincluded.github.io//img/char-art//hans.jpg" alt="Hans" />
+            </div>
+            <figcaption>
+              <p>Hans</p>
+            </figcaption>
+            <a href="https://dragonsnotincluded.github.io//img/char-art//hans.jpg" itemprop="contentUrl"></a>
+          </figure>
+        </div>
+        <div class="box">
+          <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <div class="img" style="background-image: url('https://dragonsnotincluded.github.io//img/char-art//istra.jpg');" >
+              <img itemprop="thumbnail" src="https://dragonsnotincluded.github.io//img/char-art//istra.jpg" alt="Istra" />
+            </div>
+            <figcaption>
+              <p>Istra</p>
+            </figcaption>
+            <a href="https://dragonsnotincluded.github.io//img/char-art//istra.jpg" itemprop="contentUrl"></a>
+          </figure>
+        </div>
+        <div class="box">
+          <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+            <div class="img" style="background-image: url('https://dragonsnotincluded.github.io//img/char-art//scrutiny.jpg');" >
+              <img itemprop="thumbnail" src="https://dragonsnotincluded.github.io//img/char-art//scrutiny.jpg" alt="Scrutiny" />
+            </div>
+            <figcaption>
+              <p>Scrutiny</p>
+            </figcaption>
+            <a href="https://dragonsnotincluded.github.io//img/char-art//scrutiny.jpg" itemprop="contentUrl"></a>
+          </figure>
+        </div>
+</div>
+
+
+
+
+
+
+  
+
+
+
+<script>
+		
+
+		 
+		if (window.loadphotoswipejs) {
+			window.alert("You've loaded load-photoswipe.js twice. See https://github.com/liwenyip/hugo-easy-gallery/issues/6")
+		}
+		var loadphotoswipejs = 1
+
+		 
+
+		document.addEventListener('DOMContentLoaded', function() {
+			var items = []; 
+			
+			document.querySelectorAll('figure').forEach(function($figure, index) {
+				if ($figure.className == 'no-photoswipe') return true;  
+				var $a     = $figure.querySelector('a'),
+					$img   = $figure.querySelector('img'),
+					$src   = $a.href,
+					$title = $img.alt,
+					$msrc  = $img.src;
+				
+				if ($a.dataset.size) {
+					var $size = $a.dataset.size.split('x');
+					var item = {
+						src   : $src,
+						w     : $size[0],
+						h     : $size[1],
+						title : $title,
+						msrc  : $msrc
+					};
+					
+					console.log("Using pre-defined dimensions for " + $src);
+					
+					
+				} else {
+					var item = {
+						src   : $src,
+						w     : 400, 
+						h     : 300, 
+						title : $title,
+						msrc  : $msrc
+					};
+					
+					console.log("Using default dimensions for " + $src);
+					
+					
+					
+					var img = new Image();
+					img.src = $src;
+					var wait = setInterval(function() {
+						var w = img.naturalWidth,
+							h = img.naturalHeight;
+						if (w && h) {
+							clearInterval(wait);
+							item.w = w;
+							item.h = h;
+							
+							console.log("Got actual dimensions for " + img.src);
+							
+							
+							var $parentDiv = $figure.parentElement;
+							if (!$parentDiv.hasOwnProperty("style")) {
+								$figure.parentElement.style = "max-width: " + w + "px"
+							}
+						}
+					}, 30);
+				}
+				
+				items.push(item);
+				
+				$figure.addEventListener('click', function(event) {
+					event.preventDefault();  
+					
+					var $pswp = document.querySelector('.pswp');
+					var options = {
+						index: index,
+						bgOpacity: 0.8,
+						showHideOpacity: true,
+						showHideAnimationType: 'zoom',
+						focus: 'false',
+						history: 'false'
+					}
+					new PhotoSwipe($pswp, PhotoSwipeUI_Default, items, options).init();
+				}, false);
+			});
+		}, false);
+
+</script>
+
+
+
+<link rel="stylesheet" href="/css/3p/photoswipe.min@4.1.3.css"></script>
+  <link rel="stylesheet" href="/css/3p/default-skin/default-skin.min@4.1.3.css"></script>
+  <script src="/js/3p/photoswipe.min@4.1.3.js"></script>
+  <script src="/js/3p/photoswipe-ui-default.min@4.1.3.js"></script>
+
+
+<style>
+    .pswp__caption a
+  , .pswp__caption small a
+  , .pswp__caption__center a {
+      color: #CCC;
+       
+  }
+</style>
+
+
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+<div class="pswp__bg"></div>
+
+<div class="pswp__scroll-wrap">
+    
+    <div class="pswp__container">
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+      <div class="pswp__item"></div>
+    </div>
+    
+    <div class="pswp__ui pswp__ui--hidden">
+    <div class="pswp__top-bar">
+      
+      <div class="pswp__counter"></div>
+      <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+      <button class="pswp__button pswp__button--share" title="Share"></button>
+      <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+      <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+      
+      
+      <div class="pswp__preloader">
+        <div class="pswp__preloader__icn">
+          <div class="pswp__preloader__cut">
+            <div class="pswp__preloader__donut"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+      <div class="pswp__share-tooltip"></div>
+    </div>
+    <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+    </button>
+    <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+    </button>
+    <div class="pswp__caption">
+      <div class="pswp__caption__center"></div>
+    </div>
+    </div>
+    </div>
+</div>
+
+</p>
 
 
                             
