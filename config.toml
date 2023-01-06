@@ -28,6 +28,8 @@ publishDir = 'docs'
 subtitle = "Themed by Diary."
 enableGitalk = false
 debug = true
+CDNJS = false
+paginate = 10
 
 favicon = "/favicons/favicon.ico"
 customWallpaper = "/img/Test background.jpg"
@@ -41,39 +43,44 @@ enableTwitterCards = true
 title = "Dragons Not Included" # will set 'og:site_name'
 description = "Role-playing adventures in the Forgotten Realms"  # will set 'og:description'
 
-[params.gitalk]
-  owner = "user"
-  repo = "repo name"
-  client_id = "your client id"  
-  client_secret = "your client secret"
+[params.posts]
+   folderName = "post"
+   pageSize = "12"
+   featuredPost = "false"
+
+# [params.gitalk]
+  # owner = "user"
+  # repo = "repo name"
+  # client_id = "your client id"  
+  # client_secret = "your client secret"
 [taxonomies]
    tag = "tags"
    category = "categories"
    author = "authors"
 
-[params.utterances]
-repo="your repo"
-term="[ENTER TERM HERE]"
-label="your label"
-theme="github-light"
+# [params.utterances]
+# repo="your repo"
+# term="[ENTER TERM HERE]"
+# label="your label"
+# theme="github-light"
 
-[[menu.main]]
-url = "/categories"
-name = "Adventures"
-weight = 2
-[[menu.main]]
-url = "/tags"
-name = "Characters"
-weight = 3
-[[menu.main]]
-url = "/posts"
-name = "Archive"
-weight = 1
-[[menu.main]]
-url = "/about"
-name = "About us"
-weight = 4
-[[menu.main]]
-url = "/index.xml"
-name = "RSS Feed"
-weight = 5
+# [[menu.main]]
+# url = "/categories"
+# name = "Adventures"
+# weight = 2
+# [[menu.main]]
+# url = "/tags"
+# name = "Characters"
+# weight = 3
+# [[menu.main]]
+# url = "/posts"
+# name = "Archive"
+# weight = 1
+# [[menu.main]]
+# url = "/about"
+# name = "About us"
+# weight = 4
+# [[menu.main]]
+# url = "/index.xml"
+# name = "RSS Feed"
+# weight = 5
