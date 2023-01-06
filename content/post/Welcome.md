@@ -1,6 +1,4 @@
 ---
-title: "Welcome to Dragons Not Included"
-description: ""
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 categories:
