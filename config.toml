@@ -34,9 +34,8 @@ CDNJS = false
 paginate = 10
 
 favicon = "/favicons/favicon.ico"
-customWallpaper = "/img/Test background.jpg"
-#customWallpaperDark = "/img/customWallpaperDark.png"
-backgroundPath = "/img/Test background.jpg"
+# This path doesn't like spaces on some systems:
+backgroundPath = "/img/background.jpg"
 enableAutoDarkMode=true
 
 # Twitter Card and Open Graph settings
