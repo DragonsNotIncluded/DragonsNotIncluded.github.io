@@ -1,3 +1,11 @@
+/* Global color variables */
+:root {
+	--highlight: #da2323; /* default #18bfef */
+	--navbar_idle: rgb(74 52 19 / 68%); /* default rgba(255, 255, 255, 0.175) */
+	--navbar_hover: rgba(255, 255, 255, 0.1); /* default rgba(255, 255, 255, 0.1) */
+}
+
+/* drop shadow for pictures */
 figure.dropshadow {
 	max-width: 100%; 
 	border: 1px solid lightgray; 
@@ -5,3 +13,140 @@ figure.dropshadow {
 	margin: auto; 
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
+
+/* Hero logo font and color */
+/* shadow/outline from https://stackoverflow.com/questions/4919076/outline-effect-to-text */
+#intro h1 {
+    color: var(--highlight) !important;
+    font-family: "Times New Roman", Times, serif;
+	text-shadow: 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black, 
+	0 0 4px black;
+}
+
+/* Transformed header logo */
+#header .logo, a.logo {
+    color: var(--highlight) !important;
+	font-family: "Times New Roman", Times, serif;
+	text-shadow:
+    -1px -1px 0 #ff0,
+    0px -1px 0 #ff0,
+    1px -1px 0 #ff0,
+    -1px 1px 0 #ff0,
+    0px 1px 0 #ff0,
+    1px 1px 0 #ff0;
+	border-color: var(--highlight)!important;
+}
+
+#header .logo:hover {
+    color: var(--highlight) !important;
+	font-family: "Times New Roman", Times, serif;
+	border-style: dashed;
+	border-color: #ffffff !important;
+    border-width: 5px !important;
+}
+
+/* Scrolly button color */
+/* #intro .button { */
+	/* color: var(--highlight) !important; */
+/* } */
+
+/* Scrolly button hover color */
+#intro input[type="submit"], #intro input[type="reset"], #intro input[type="button"], #intro .button:hover {
+	color: var(--highlight) !important;
+	box-shadow: inset 0 0 0 2px var(--highlight) !important;
+	/* border: 2px var(--highlight) dashed; */
+}
+
+/* Navbar background */
+#nav {
+	background: var(--navbar_idle);
+}
+
+/* Navbar background hover */
+#nav ul.links li a:hover  {
+	background-color: var(--navbar_hover);
+}
+
+/* Mobile menu button */
+#navPanelToggle.alt {
+	/* background-color: var(--navbar_idle); /* default rgba(255, 255, 255, 0.875) */ */
+}
+
+/* Navbar text, socials icons (everywhere) hover color  */
+#nav a:hover, .icon:hover, ul.links, ul.links:hover, ul.icons li a.icon:hover:before, #nav ul.links li.active a:hover {
+	color: var(--highlight) !important;
+}
+
+ul.icons.alt li a.icon:hover:before {
+    box-shadow: inset 0 0 0 2px var(--highlight);
+}
+
+/* Article titles */
+a:hover, copyright a:hover {
+	color: var(--highlight) !important;
+}
+
+/* Article heading fonts */
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Times New Roman", Times, serif;
+	text-shadow: 0 0 2px black;
+}
+
+/* Article "Read more" button hover color, pagination buttons hover color */
+input[type=submit]:hover, input[type=reset]:hover, input[type=button]:hover, input[type=pagination]:hover, button:hover, .button:hover {
+    box-shadow: inset 0 0 0 2px var(--highlight) !important;
+    color: var(--highlight)!important;
+	border-color: var(--highlight) !important;
+}
+
+/* Footer pagination */
+pagination a:hover, .pagination a:hover {
+	color: var(--highlight)!important;
+	border-color: var(--highlight) !important;
+}
+
+/* Footer social icons */
+#footer a.icon:hover:before {
+	color: var(--highlight) !important;
+	box-shadow: inset 0 0 0 2px var(--highlight) !important;
+}
+
+/* Copyright URLs */
+#copyright a:hover {
+	color: var(--highlight) !important;
+}
+
+/*==============EXPERIMENTAL==============*/
+
+/* Gradient colouring for title text (doesn't work yet) */
+/* https://bootcamp.uxdesign.cc/gradient-text-in-css-609068d3f953 */
+/* fallback for IE */
+/* .gradient-text { */
+  /* color: red; */
+/* } */
+/* @supports (background-clip: text) { */
+	/* .gradient-text { */
+		/* background-image: linear-gradient(to top right, #000000, #da2323, #000000); */
+		/* background-clip: text; */
+		/* background-color: transparent; */
+	/* } */
+/* } */
