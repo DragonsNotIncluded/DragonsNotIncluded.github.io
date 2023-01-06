@@ -11,11 +11,9 @@ disableToC: true
 weight: 1
 ---
 
-You walk into a tavern and roll a dice.
-
 Hello and welcome to the Dragons Not Included podcast.
 
-We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.
+We are a group of friends with a love of tabletop roleplaying games. We want to bring the experience that you are playing the game with us around the table at home.
 
-So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.
+So pull up a seat and join us for all the action, drama and laughs through on the Wrath of the Righteous adventure path.
 <!--more-->

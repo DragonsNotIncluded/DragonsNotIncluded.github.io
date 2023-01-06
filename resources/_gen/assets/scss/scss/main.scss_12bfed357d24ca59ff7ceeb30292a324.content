@@ -2980,6 +2980,6 @@ img {
   max-width: 100%; }
 
 #wrapper > .bg {
-  background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../..//img/Test background.jpg"); }
+  background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../..//img/background.jpg"); }
 
 /*# sourceMappingURL=main.css.map */
