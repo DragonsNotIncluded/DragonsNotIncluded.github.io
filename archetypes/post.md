@@ -18,6 +18,10 @@ draft: false
 disableToC: true
 ---
 
+## Always provide either "description" in the front matter above, or make sure to place all script loader tags after the "more" below, otherwise Hugo will load it along with the first 70 words for the subtitle.  
+
+<!--more-->
+
 Listen to the episode on PodBean:
 {{< podbean episode-id-minus-pb >}}
 
