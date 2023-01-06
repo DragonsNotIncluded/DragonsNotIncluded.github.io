@@ -6,7 +6,7 @@ copyright = "2020-2022, Dragons Not Included."
 theme = ["hugo-theme-massively", "darths-hugo-shortcodes", "hugo-easy-gallery"]
 # Disable errors in Hugo log for theme Massively
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "G-G4GC4JMVVC"
 
 # recommended for GitHub pages
 publishDir = 'docs'
