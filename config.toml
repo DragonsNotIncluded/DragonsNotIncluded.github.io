@@ -4,6 +4,8 @@ languageCode = 'en-gb'
 title = 'Dragons Not Included'
 copyright = "2020-2022, Dragons Not Included."
 theme = ["hugo-theme-massively", "darths-hugo-shortcodes", "hugo-easy-gallery"]
+# Disable errors in Hugo log for theme Massively
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 # googleAnalytics = "UA-123-45"
 
 # recommended for GitHub pages
@@ -46,7 +48,7 @@ description = "Role-playing adventures in the Forgotten Realms"  # will set 'og:
 [params.posts]
    folderName = "post"
    pageSize = "12"
-   featuredPost = "false"
+   featuredPost = "true"
 
 # [params.gitalk]
   # owner = "user"
