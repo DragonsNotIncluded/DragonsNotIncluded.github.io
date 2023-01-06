@@ -1,3 +1,5 @@
 items:
+- title: 'Gallery'
+  url: '/gallery'
 - title: 'About'
   url: '/about'

@@ -3,7 +3,7 @@ DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, 
 languageCode = 'en-gb'
 title = 'Dragons Not Included'
 copyright = "2020-2022, Dragons Not Included."
-theme = ["hugo-theme-massively", "darths-hugo-shortcodes"]
+theme = ["hugo-theme-massively", "darths-hugo-shortcodes", "hugo-easy-gallery"]
 # googleAnalytics = "UA-123-45"
 
 # recommended for GitHub pages
