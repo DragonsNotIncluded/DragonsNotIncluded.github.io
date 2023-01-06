@@ -6,4 +6,4 @@
 	url = https://github.com/DragonsNotIncluded/hugo-theme-massively.git
 [submodule "themes/hugo-easy-gallery"]
 	path = themes/hugo-easy-gallery
-	url = git@github.com:Darthagnon/hugo-easy-gallery.git
+	url = https://github.com/Darthagnon/hugo-easy-gallery.git
