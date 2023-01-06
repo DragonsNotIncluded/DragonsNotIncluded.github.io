@@ -2,7 +2,7 @@
 title: "Gallery"
 # slug: "generic-page"
 # image: "images/pic02.jpg"
-description: "Gallery of our adventures in the Forgotten Realms"
+description: "Gallery of our adventures in The Worldwound"
 disableComments: true
 ---
 
