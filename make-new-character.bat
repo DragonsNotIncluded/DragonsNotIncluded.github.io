@@ -1,0 +1,1 @@
+hugo.exe new content\character\new-article.md
