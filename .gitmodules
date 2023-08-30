@@ -3,7 +3,7 @@
 	url = https://github.com/Darthagnon/darths-hugo-shortcodes.git
 [submodule "themes/hugo-theme-massively"]
 	path = themes/hugo-theme-massively
-	url = https://github.com/DragonsNotIncluded/hugo-theme-massively.git
+	url = git@github.com:DragonsNotIncluded/hugo-theme-massively.git
 [submodule "themes/hugo-easy-gallery"]
 	path = themes/hugo-easy-gallery
 	url = https://github.com/Darthagnon/hugo-easy-gallery.git

@@ -5,7 +5,7 @@ title = 'Dragons Not Included'
 copyright = "2020-2022, Dragons Not Included."
 theme = ["hugo-theme-massively", "darths-hugo-shortcodes", "hugo-easy-gallery"]
 # Disable errors in Hugo log for theme Massively
-disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+# disableKinds = [ "taxonomyTerm", "section"]
 googleAnalytics = "G-G4GC4JMVVC"
 
 # recommended for GitHub pages
@@ -43,6 +43,12 @@ enableOpenGraph = true
 enableTwitterCards = true
 title = "Dragons Not Included" # will set 'og:site_name'
 description = "Role-playing adventures in the Forgotten Realms"  # will set 'og:description'
+
+# Tags
+# default values
+tagsDateFormat = "2006-01"
+tagsShow = true
+tagsCloudShow = true
 
 [params.posts]
    folderName = "post"
