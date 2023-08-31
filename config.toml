@@ -6,6 +6,8 @@ copyright = "2020-2022, Dragons Not Included."
 theme = ["hugo-theme-massively", "darths-hugo-shortcodes", "hugo-easy-gallery"]
 # Disable errors in Hugo log for theme Massively
 # disableKinds = [ "taxonomyTerm", "section"]
+# ignore stupid error
+ignoreErrors = ["error-missing-instagram-accesstoken", "error-remote-getjson", "error-disable-taxonomy"]
 googleAnalytics = "G-G4GC4JMVVC"
 
 # recommended for GitHub pages
@@ -71,6 +73,7 @@ tagsCloudShow = true
 # label="your label"
 # theme="github-light"
 
+# Legacy config from Hugo Theme Diary (https://github.com/AmazingRise/hugo-theme-diary)
 # [[menu.main]]
 # url = "/categories"
 # name = "Adventures"

@@ -1945,6 +1945,11 @@ table tfoot {
 table.alt tbody tr td {
   border-color: #eeeeee; }
 
+div .tagcloud {
+  text-align: center;
+  margin: auto !important;
+  width: 50% !important; }
+
 /* Pagination */
 .pagination {
   display: -moz-inline-flex;

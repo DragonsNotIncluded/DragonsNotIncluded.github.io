@@ -8,15 +8,21 @@
     <language>en-gb</language>
     <copyright>2020-2022, Dragons Not Included.</copyright><atom:link href="https://dragonsnotincluded.github.io/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome to Dragons Not Included</title>
+      <title></title>
       <link>https://dragonsnotincluded.github.io/post/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://dragonsnotincluded.github.io/post/welcome/</guid>
-      <description>You walk into a tavern and roll a dice.
+      <description>&lt;div style=&#34;text-align: left !important;&#34;&gt;
 Hello and welcome to the Dragons Not Included podcast.
-We are a group of friends with a mutual love of tabletop roleplaying games. We wanted to bring the experience of playing a game with us around the table to you at home.
-So we hope you will join us with the action, the drama and the laughs through the Wrath of the Righteous adventure path.</description>
+&lt;p&gt;We are a group of friends with a love of tabletop roleplaying games. We want to create the experience that you are playing the game with us around the table at home.&lt;/p&gt;
+&lt;p&gt;So pull up a seat and join us for all the action, drama and laughs  on the Wrath of the Righteous adventure path.&lt;/p&gt;
+&lt;/div&gt;</description>
+      <content>&lt;div style=&#34;text-align: left !important;&#34;&gt;
+Hello and welcome to the Dragons Not Included podcast.
+&lt;p&gt;We are a group of friends with a love of tabletop roleplaying games. We want to create the experience that you are playing the game with us around the table at home.&lt;/p&gt;
+&lt;p&gt;So pull up a seat and join us for all the action, drama and laughs  on the Wrath of the Righteous adventure path.&lt;/p&gt;
+&lt;/div&gt;</content>
     </item>
     
   </channel>
