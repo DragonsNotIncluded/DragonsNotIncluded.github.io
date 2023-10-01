@@ -5,9 +5,29 @@
 	--navbar_hover: rgba(255, 255, 255, 0.1); /* default rgba(255, 255, 255, 0.1) */
 }
 
+/* shrink article header images to a more reasonable size, only needs desktop sizing to be adjusted (mobile is fine) */
+figure:not(.gallery), .image.main, .box {
+    max-height: 75%;
+    max-width: 75%; /* messes up Hugo Easy Gallery, but required for fix */
+    /*height: auto;*/
+    /*width: auto; */
+    /*margin: auto;*/
+}
+
+/* tablet size */
+@media screen and (max-width: 992px) {
+figure:not(.gallery), .image.main, .box {
+    max-height: 100%;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+    margin: auto;
+}
+}
+
 /* drop shadow for pictures */
 figure.dropshadow {
-	max-width: 100%; 
+	/*max-width: 100%;*/ 
 	border: 1px solid lightgray; 
 	display: block; 
 	margin: auto; 
