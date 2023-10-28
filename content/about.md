@@ -1,6 +1,5 @@
 ---
 title: "About us"
-date: 2022-06-07T15:11:54+01:00
 disableToC: true
 draft: false
 ---
