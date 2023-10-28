@@ -1,6 +1,6 @@
 ---
 title: "Istra Rimetusk"
-date: 2022-08-11T12:54:43+01:00
+date: 2023-11-01T12:54:43+01:00
 # lastmod: 2022-08-11T12:54:43+01:00
 # nolastmod: true
 description: "The Warrior from the North"
