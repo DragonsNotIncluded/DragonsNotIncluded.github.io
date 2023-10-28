@@ -9,8 +9,6 @@ draft: false
 
 Join the crew of the Dragons Not Included podcast as they roll, crit and laugh their way through the Wrath of the Righteous tabletop role playing adventure. 
 
-#See also our [Authors]({{< ref "/authors" >}} "Authors").
-
 ## Team Members
 - Stephen (Game Master)
 - Darren (Administration, art, webdev, [robot-one.github.io](https://robot-one.github.io/))
