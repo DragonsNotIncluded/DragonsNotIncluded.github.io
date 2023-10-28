@@ -11,7 +11,6 @@ Our adventures are something special, so we have gathered memories, commissioned
 {{< gallery dir="/img/" />}} {{< load-photoswipe >}}
 
 ## Artist credits
-- [Unsplash](https://unsplash.com/)
 - [Darthagnon](https://robot-one.github.io/)
 - ... and many more!
  
