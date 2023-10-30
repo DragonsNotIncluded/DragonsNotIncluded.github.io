@@ -17,4 +17,5 @@ disableToC: true
 
 {{< figure src="/img/char-art/scrutiny.jpg" alt="Character art" class="dropshadow" >}}
 
-Scrutiny did not seek out the crusades, nor does he have any love of the church and its faithful. He stood up to fight to defend his home when it was threatened. He is skilled from frighting from the shadows, a talent augmented by his magic. Facing the power of the Worldwound with cunning and the wisdom of his namesake. He hopes his levelheadedness can temper the headstrong crusaders.
+Scrutiny is, in a word: thorny. In two words: rather thorny and in four: just a bit much. Being born a teifling in a city of demon slayers starts you off the wrong foot. Undeterred  he worked at it and earned his place on his own merit. It only took the slightest suspicion to lose it all.
+So please don't be deceived by his bitterness. Underneath all that venom he cares, though he rarely admits it.
