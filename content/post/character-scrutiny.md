@@ -19,3 +19,9 @@ disableToC: true
 
 Scrutiny is, in a word: thorny. In two words: rather thorny and in four: just a bit much. Being born a teifling in a city of demon slayers starts you off the wrong foot. Undeterred  he worked at it and earned his place on his own merit. It only took the slightest suspicion to lose it all.
 So please don't be deceived by his bitterness. Underneath all that venom he cares, though he rarely admits it.
+
+## Behold the gang
+Our friendly group of travelling adventurers is now assembled! Click to view the full size portraits!
+
+{{< gallery dir="/img/char-art/" />}}
+{{< load-photoswipe >}}

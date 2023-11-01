@@ -17,8 +17,8 @@ disableToC: true
 
 {{< figure src="/img/char-art/eldon.jpg" alt="Character art" class="dropshadow" >}}
 
-Eldon Aegis did not join crusades, he was born into them. For the last century the Agegis's fought the demons of the Worldwound valiantly and young Eldon grew up on the heroic tales of his family.
-When duty called Eldon bravely marched on sword in hand. He fights to defend the weak from the evil and bring the justice of his goddess to smite the demons.
+Bravery. Honour. Piety. All qualities the Aegis family strived to be examplars of since they first emerged on Golarion. The Aegis' have fought under the banner of Iomedae in each of the Crusades into the worldwound, standing apart in their dedication to the will of The Inheritor. Born in an unprecedented time of peace, Eldon Aegis bore the weight of his ancestry and feared that he may never live up to his family name. Now, as the worldwound once again threatens to swallow Kenabres whole, he must prove he has what it takes to take on the family mantle. As the Aegis family motto goes:
+"By my shield, I shall protect the meek. By my blade, I shall make fiends fall. By my name, I shall shine as a beacon to all!
 
 ## Behold the gang
 Our friendly group of travelling adventurers is now assembled! Click to view the full size portraits!
