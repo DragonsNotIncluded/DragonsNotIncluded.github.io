@@ -7,7 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>2020-2022, Dragons Not Included.</copyright>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dragonsnotincluded.github.io/tags/hans/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 12:54:43 +0100</lastBuildDate><atom:link href="https://dragonsnotincluded.github.io/tags/hans/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hans Slag-Forge</title>
+      <link>https://dragonsnotincluded.github.io/post/character-hans/</link>
+      <pubDate>Wed, 01 Nov 2023 12:54:43 +0100</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/character-hans/</guid>
+      <description>Some come to the crusade seeking honor and glory, some seek vengeance or penance, Hans came to seek the past. The dwarven Inquisitor has made it his personal mission to seek relics of the crusades and lost artifacts of the kingdoms that predate the Worldwound. His convictions to Law lead him to make sure that debt dealt to this land by the demons will be repaid.</description>
+      <content>
+&lt;link rel=&#34;stylesheet&#34; href=https://dragonsnotincluded.github.io/css/hugo-easy-gallery.css /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure class=&#34;dropshadow&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io/img/char-art/hans.jpg&#34; alt=&#34;Character art&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dragonsnotincluded.github.io/img/char-art/hans.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Some come to the crusade seeking honor and glory, some seek vengeance or penance, Hans came to seek the past. The dwarven Inquisitor has made it his personal mission to seek relics of the crusades and lost artifacts of the kingdoms that predate the Worldwound. His convictions to Law lead him to make sure that debt dealt to this land by the demons will be repaid.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Episode 16: There&#39;s Glow Place Like Home</title>
       <link>https://dragonsnotincluded.github.io/post/wrath-ep16-glow-place-like-home/</link>

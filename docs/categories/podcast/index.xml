@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>2020-2022, Dragons Not Included.</copyright>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dragonsnotincluded.github.io/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 12:54:43 +0100</lastBuildDate><atom:link href="https://dragonsnotincluded.github.io/categories/podcast/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://dragonsnotincluded.github.io/post/welcome/</link>
@@ -24,6 +24,210 @@ Hello and welcome to the Dragons Not Included podcast.
 &lt;p&gt;We are a group of friends with a love of tabletop roleplaying games. We want to create the experience that you are playing the game with us around the table at home.&lt;/p&gt;
 &lt;p&gt;So pull up a seat and join us for all the action, drama and laughs  on the Wrath of the Righteous adventure path.&lt;/p&gt;
 &lt;/div&gt;</content>
+    </item>
+    
+    <item>
+      <title>Eldon Aegis</title>
+      <link>https://dragonsnotincluded.github.io/post/character-eldon/</link>
+      <pubDate>Wed, 01 Nov 2023 12:54:43 +0100</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/character-eldon/</guid>
+      <description>Eldon Aegis did not join crusades, he was born into them. For the last century the Agegis&amp;rsquo;s fought the demons of the Worldwound valiantly and young Eldon grew up on the heroic tales of his family. When duty called Eldon bravely marched on sword in hand. He fights to defend the weak from the evil and bring the justice of his goddess to smite the demons.
+Behold the gang Our friendly group of travelling adventurers is now assembled!</description>
+      <content>
+&lt;link rel=&#34;stylesheet&#34; href=https://dragonsnotincluded.github.io/css/hugo-easy-gallery.css /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure class=&#34;dropshadow&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io/img/char-art/eldon.jpg&#34; alt=&#34;Character art&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dragonsnotincluded.github.io/img/char-art/eldon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Eldon Aegis did not join crusades, he was born into them. For the last century the Agegis&amp;rsquo;s fought the demons of the Worldwound valiantly and young Eldon grew up on the heroic tales of his family.
+When duty called Eldon bravely marched on sword in hand. He fights to defend the weak from the evil and bring the justice of his goddess to smite the demons.&lt;/p&gt;
+&lt;h2 id=&#34;behold-the-gang&#34;&gt;Behold the gang&lt;/h2&gt;
+&lt;p&gt;Our friendly group of travelling adventurers is now assembled! Click to view the full size portraits!&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;div class=&#34;gallery caption-position-bottom caption-effect-slide hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://dragonsnotincluded.github.io//img/char-art//eldon.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io//img/char-art//eldon.jpg&#34; alt=&#34;Eldon&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Eldon&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://dragonsnotincluded.github.io//img/char-art//eldon.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://dragonsnotincluded.github.io//img/char-art//hans.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io//img/char-art//hans.jpg&#34; alt=&#34;Hans&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Hans&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://dragonsnotincluded.github.io//img/char-art//hans.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://dragonsnotincluded.github.io//img/char-art//istra.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io//img/char-art//istra.jpg&#34; alt=&#34;Istra&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Istra&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://dragonsnotincluded.github.io//img/char-art//istra.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;box&#34;&gt;
+				  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+				    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;https://dragonsnotincluded.github.io//img/char-art//scrutiny.jpg&#39;);&#34; &gt;
+				      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io//img/char-art//scrutiny.jpg&#34; alt=&#34;Scrutiny&#34; /&gt;
+				    &lt;/div&gt;
+			      &lt;figcaption&gt;
+		          &lt;p&gt;Scrutiny&lt;/p&gt;
+			      &lt;/figcaption&gt;
+				    &lt;a href=&#34;https://dragonsnotincluded.github.io//img/char-art//scrutiny.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+				  &lt;/figure&gt;
+				&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+
+
+  
+
+
+&lt;script src=&#34;https://code.jquery.com/jquery-1.12.4.min.js&#34; integrity=&#34;sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=https://dragonsnotincluded.github.io/js/load-photoswipe.js&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css&#34; integrity=&#34;sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css&#34; integrity=&#34;sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=&#34; crossorigin=&#34;anonymous&#34; /&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js&#34; integrity=&#34;sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js&#34; integrity=&#34;sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+&lt;div class=&#34;pswp&#34; tabindex=&#34;-1&#34; role=&#34;dialog&#34; aria-hidden=&#34;true&#34;&gt;
+
+&lt;div class=&#34;pswp__bg&#34;&gt;&lt;/div&gt;
+
+&lt;div class=&#34;pswp__scroll-wrap&#34;&gt;
+    
+    &lt;div class=&#34;pswp__container&#34;&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;pswp__item&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    
+    &lt;div class=&#34;pswp__ui pswp__ui--hidden&#34;&gt;
+    &lt;div class=&#34;pswp__top-bar&#34;&gt;
+      
+      &lt;div class=&#34;pswp__counter&#34;&gt;&lt;/div&gt;
+      &lt;button class=&#34;pswp__button pswp__button--close&#34; title=&#34;Close (Esc)&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--share&#34; title=&#34;Share&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--fs&#34; title=&#34;Toggle fullscreen&#34;&gt;&lt;/button&gt;
+      &lt;button class=&#34;pswp__button pswp__button--zoom&#34; title=&#34;Zoom in/out&#34;&gt;&lt;/button&gt;
+      
+      
+      &lt;div class=&#34;pswp__preloader&#34;&gt;
+        &lt;div class=&#34;pswp__preloader__icn&#34;&gt;
+          &lt;div class=&#34;pswp__preloader__cut&#34;&gt;
+            &lt;div class=&#34;pswp__preloader__donut&#34;&gt;&lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;pswp__share-modal pswp__share-modal--hidden pswp__single-tap&#34;&gt;
+      &lt;div class=&#34;pswp__share-tooltip&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--left&#34; title=&#34;Previous (arrow left)&#34;&gt;
+    &lt;/button&gt;
+    &lt;button class=&#34;pswp__button pswp__button--arrow--right&#34; title=&#34;Next (arrow right)&#34;&gt;
+    &lt;/button&gt;
+    &lt;div class=&#34;pswp__caption&#34;&gt;
+      &lt;div class=&#34;pswp__caption__center&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Hans Slag-Forge</title>
+      <link>https://dragonsnotincluded.github.io/post/character-hans/</link>
+      <pubDate>Wed, 01 Nov 2023 12:54:43 +0100</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/character-hans/</guid>
+      <description>Some come to the crusade seeking honor and glory, some seek vengeance or penance, Hans came to seek the past. The dwarven Inquisitor has made it his personal mission to seek relics of the crusades and lost artifacts of the kingdoms that predate the Worldwound. His convictions to Law lead him to make sure that debt dealt to this land by the demons will be repaid.</description>
+      <content>
+&lt;link rel=&#34;stylesheet&#34; href=https://dragonsnotincluded.github.io/css/hugo-easy-gallery.css /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure class=&#34;dropshadow&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io/img/char-art/hans.jpg&#34; alt=&#34;Character art&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dragonsnotincluded.github.io/img/char-art/hans.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Some come to the crusade seeking honor and glory, some seek vengeance or penance, Hans came to seek the past. The dwarven Inquisitor has made it his personal mission to seek relics of the crusades and lost artifacts of the kingdoms that predate the Worldwound. His convictions to Law lead him to make sure that debt dealt to this land by the demons will be repaid.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Istra Rimetusk</title>
+      <link>https://dragonsnotincluded.github.io/post/character-istra/</link>
+      <pubDate>Wed, 01 Nov 2023 12:54:43 +0100</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/character-istra/</guid>
+      <description>Hailing from the frozen north the warrior Istra Rimetusk joined the crusade to find glory in battle and destroy the demonic hordes rolling over the Worldwound. Though fierce in battle she treats her allies with a warmth that could even melt the ice of her homeland. But there may be something else hidden behind her friendly bluster.</description>
+      <content>
+&lt;link rel=&#34;stylesheet&#34; href=https://dragonsnotincluded.github.io/css/hugo-easy-gallery.css /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure class=&#34;dropshadow&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io/img/char-art/istra.jpg&#34; alt=&#34;Character art&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dragonsnotincluded.github.io/img/char-art/istra.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Hailing from the frozen north the warrior Istra Rimetusk joined the crusade to find glory in battle and destroy the demonic hordes rolling over the Worldwound. Though fierce in battle she treats her allies with a warmth that could even melt the ice of her homeland. But there may be something else hidden behind her friendly bluster.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Scrutiny</title>
+      <link>https://dragonsnotincluded.github.io/post/character-scrutiny/</link>
+      <pubDate>Wed, 01 Nov 2023 12:54:43 +0100</pubDate>
+      
+      <guid>https://dragonsnotincluded.github.io/post/character-scrutiny/</guid>
+      <description>Scrutiny is, in a word: thorny. In two words: rather thorny and in four: just a bit much. Being born a teifling in a city of demon slayers starts you off the wrong foot. Undeterred he worked at it and earned his place on his own merit. It only took the slightest suspicion to lose it all. So please don&amp;rsquo;t be deceived by his bitterness. Underneath all that venom he cares, though he rarely admits it.</description>
+      <content>
+&lt;link rel=&#34;stylesheet&#34; href=https://dragonsnotincluded.github.io/css/hugo-easy-gallery.css /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure class=&#34;dropshadow&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://dragonsnotincluded.github.io/img/char-art/scrutiny.jpg&#34; alt=&#34;Character art&#34;/&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://dragonsnotincluded.github.io/img/char-art/scrutiny.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Scrutiny is, in a word: thorny. In two words: rather thorny and in four: just a bit much. Being born a teifling in a city of demon slayers starts you off the wrong foot. Undeterred  he worked at it and earned his place on his own merit. It only took the slightest suspicion to lose it all.
+So please don&amp;rsquo;t be deceived by his bitterness. Underneath all that venom he cares, though he rarely admits it.&lt;/p&gt;
+</content>
     </item>
     
     <item>
