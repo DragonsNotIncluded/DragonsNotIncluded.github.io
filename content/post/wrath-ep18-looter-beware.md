@@ -1,6 +1,6 @@
 ---
 title: "Episode 18: Looter Beware"
-date: 2021-06-03
+date: 2023-11-08
 description: On the trail of the cult the party explore an abandoned apothecary. Will they find a vital clue or will the cult's trap ensnare them?
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
