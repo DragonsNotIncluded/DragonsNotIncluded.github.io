@@ -1,7 +1,7 @@
 ---
-title: "Episode 17: A Rest from the Wicked"
-date: 2023-11-01
-description: The party finally find a safe haven, will their new allies be able to help turn the tide against the demons?
+title: "Episode 18: Looter Beware"
+date: 2021-06-03
+description: On the trail of the cult the party explore an abandoned apothecary. Will they find a vital clue or will the cult's trap ensnare them?
 author: Dungeon Master
 featured_image: "/img/dagon_temp_smallbi2bf.png"
 image: "/img/dagon_temp_smallbi2bf.png"
@@ -18,11 +18,10 @@ disableToC: true
 ---
 
 Listen to the episode on PodBean:
-<iframe title="Episode 17: A Rest from the Wicked" allowtransparency="true" height="150" width="100%" style="border: none; min-width: min(100%, 430px);height:150px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=7rnxs-14e2e97-pb&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=150" loading="lazy"></iframe>
+<iframe title="Dragons Not Included" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);height:315px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=zyu7t-9b2b48-pbblog-playlist&share=1&download=1&fonts=Arial&skin=1&font-color=&rtl=0&logo_link=&btn-skin=7&size=315" loading="lazy" allowfullscreen=""></iframe>
 
-<!-- https://www.podbean.com/ew/pb-49suk-105448b --> 
 
-The party finally find a safe haven, will their new allies be able to help turn the tide against the demons?
+On the trail of the cult the party explore an abandoned apothecary. Will they find a vital clue or will the cult's trap ensnare them?
 
 --------------------------
 ## Follow us on Social Media: 
