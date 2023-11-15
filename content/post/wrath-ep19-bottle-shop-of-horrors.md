@@ -1,6 +1,6 @@
 ---
 title: "Episode 19: Bottle Shop of Horrors"
-date: 2023-10-15
+date: 2023-11-15
 description: Caught In the clutches of a monstrous plant, will the party escape this devious trap?
 And can Istra deal with the consequences? ensnare them?
 author: Dungeon Master
