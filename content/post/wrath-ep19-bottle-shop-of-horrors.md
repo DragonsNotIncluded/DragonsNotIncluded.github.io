@@ -21,7 +21,6 @@ disableToC: true
 Listen to the episode on PodBean:
 <iframe title="Dragons Not Included" allowtransparency="true" height="315" width="100%" style="border: none; min-width: min(100%, 430px);height:315px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=zyu7t-9b2b48-pbblog-playlist&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=315" loading="lazy" allowfullscreen=""></iframe>
 
-<!-- https://www.podbean.com/ew/pb-49suk-105448b --> 
 
 Caught In the clutches of a monstrous plant, will the party escape this devious trap?
 And can Istra deal with the consequences?
